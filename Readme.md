@@ -10,4 +10,4 @@
 + [Создание модов](Моддинг/Создание-модов.md)
 
 ## Общая папка [mega:share](https://link.meridiano-web.com/mega:share) / Starfield
-+ Perks-Preview - превью перков, которые будут доступны игроку.
++ Character-Creation.pdf - превью трейтов, предысторий и навыков игрока.
