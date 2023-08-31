@@ -11,5 +11,14 @@
 + Открыть ini-файл игры по адресу "Документы/My Games/Starfield/StarfieldCustom.ini", если файла нет - создайте его.
 + Добавьте секцию [General] и параметр "bEnableMessageOfTheDay=0" без кавычек.
 
+**Заменить изображение при запуске**
+
++ По пути "Content/Config/Images" в корне игры находится файл "SplashScreen1920x1080.png".
++ Можете заменить его на любое изображение, даже с прозрачностью.
+
+**Отключить видео Bethesda Softworks**
+
++ Два мода на выбор: [No-Intro Videos Fix](https://www.nexusmods.com/starfield/mods/88) или [Skip Launch Video](https://www.nexusmods.com/starfield/mods/130).
+
 |[*Назад к оглавлению*](https://github.com/Meridiano/Starfield-Head)|
 |:---:|
