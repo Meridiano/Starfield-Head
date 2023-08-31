@@ -2,7 +2,7 @@
 
 **Русификация интерфейса**
 
-+ Скачать [архив с русификатором](https://cdn.discordapp.com/attachments/1125351713998655589/1146943727173115974/Starfield-Rus-0.1.7z).
++ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "Starfield-Rus-0.1.7z".
 + Внести содержимое ini-файла архива в ini-файл игры по адресу "Документы/My Games/Starfield/StarfieldCustom.ini", если файла нет - можете просто скопировать его.
 + Скопировать содержимое папки Data архива в папку Data игры.
 
