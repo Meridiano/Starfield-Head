@@ -11,4 +11,4 @@
 
 ## Общая папка [mega:share](https://link.meridiano-web.com/mega:share) / Starfield
 + Character-Creation.pdf - превью трейтов, предысторий и навыков игрока.
-+ Starfield-Rus-0.1.7z - русификатор интерфейса от [ZoG](www.zoneofgames.ru)
++ Starfield-Rus-0.1.7z - русификатор интерфейса от [ZoG](www.zoneofgames.ru).
