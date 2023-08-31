@@ -6,5 +6,10 @@
 + Внести содержимое ini-файла архива в ini-файл игры по адресу "Документы/My Games/Starfield/StarfieldCustom.ini", если файла нет - можете просто скопировать его.
 + Скопировать содержимое папки Data архива в папку Data игры.
 
+**Убрать Message Of The Day**
+
++ Открыть ini-файл игры по адресу "Документы/My Games/Starfield/StarfieldCustom.ini", если файла нет - создайте его.
++ Добавьте секцию [General] и параметр "bEnableMessageOfTheDay=0" без кавычек.
+
 |[*Назад к оглавлению*](https://github.com/Meridiano/Starfield-Head)|
 |:---:|
