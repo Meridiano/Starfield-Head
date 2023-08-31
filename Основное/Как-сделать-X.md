@@ -16,7 +16,7 @@
 + По пути "Content/Config/Images" в корне игры находится файл "SplashScreen1920x1080.png".
 + Можете заменить его на любое изображение, даже с прозрачностью.
 
-**Отключить видео Bethesda Softworks**
+**Отключить видео Bethesda Game Studios**
 
 + Два мода на выбор: [No-Intro Videos Fix](https://www.nexusmods.com/starfield/mods/88) или [Skip Launch Video](https://www.nexusmods.com/starfield/mods/130).
 
