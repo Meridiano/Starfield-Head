@@ -18,7 +18,7 @@
 
 **Отключить видео Bethesda Game Studios**
 
-+ Два мода на выбор: [No-Intro Videos Fix](https://www.nexusmods.com/starfield/mods/88) или [Skip Launch Video](https://www.nexusmods.com/starfield/mods/130).
++ По пути "Data/Video" в корне игры переименовать файл "BGS_LOGO_1080p_BinkVersion.bk2" в "BGS_LOGO_1080p_BinkVersion.bk2.backup".
 
 |[*Назад к оглавлению*](https://github.com/Meridiano/Starfield-Head)|
 |:---:|
