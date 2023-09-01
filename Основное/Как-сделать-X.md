@@ -8,8 +8,8 @@
 
 **Убрать Message Of The Day**
 
-+ Открыть ini-файл игры по адресу "Документы/My Games/Starfield/StarfieldCustom.ini", если файла нет - создайте его.
-+ Добавьте секцию [General] и параметр "bEnableMessageOfTheDay=0" без кавычек.
++ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ В секции [General] добавьте параметр "bEnableMessageOfTheDay=0" без кавычек.
 
 **Заменить изображение при запуске**
 
@@ -22,8 +22,13 @@
 
 **Убивать бессмертных NPC** (не рекомендуется)
 
-+ Открыть ini-файл игры по адресу "Документы/My Games/Starfield/StarfieldCustom.ini", если файла нет - создайте его.
-+ Добавьте секцию [GamePlay] и параметр "bEssentialTakeNoDamage=0" без кавычек.
++ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ В секции [GamePlay] добавьте параметр "bEssentialTakeNoDamage=0" без кавычек.
+
+**Отключить паузу у свёрнутой игры**
+
++ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ В секции [General] добавьте параметр "bAlwaysActive=1" без кавычек.
 
 |[*Назад к оглавлению*](https://github.com/Meridiano/Starfield-Head)|
 |:---:|
