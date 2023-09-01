@@ -20,5 +20,10 @@
 
 + По пути "Data/Video" в корне игры переименовать файл "BGS_LOGO_1080p_BinkVersion.bk2" в "BGS_LOGO_1080p_BinkVersion.bk2.backup".
 
+**Убивать бессмертных NPC** (не рекомендуется)
+
++ Открыть ini-файл игры по адресу "Документы/My Games/Starfield/StarfieldCustom.ini", если файла нет - создайте его.
++ Добавьте секцию [GamePlay] и параметр "bEssentialTakeNoDamage=0" без кавычек.
+
 |[*Назад к оглавлению*](https://github.com/Meridiano/Starfield-Head)|
 |:---:|
