@@ -40,6 +40,7 @@
 
 + Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
 + В секции [General] добавьте параметр "bBorderRegionsEnabled=0" без кавычек.
++ Внимание! При заходе слишком далеко игра становится нестабильной и крашится.
 
 |[*Назад к оглавлению*](https://github.com/Meridiano/Starfield-Head)|
 |:---:|
