@@ -42,6 +42,11 @@
 + В секции [General] добавьте параметр "bBorderRegionsEnabled=0" без кавычек.
 + Внимание! При заходе слишком далеко игра становится нестабильной и крашится.
 
+**Включить достижения Steam обратно**
+
++ Используйте [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/latest) и [Achievement Enabler](https://www.nexusmods.com/starfield/mods/252).
++ Внимательно следуйте инструкции по установке на странице Achievement Enabler!
+
 ------
 
 |[*Назад к оглавлению*](https://github.com/Meridiano/Starfield-Head)|
