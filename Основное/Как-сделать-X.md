@@ -30,5 +30,11 @@
 + Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
 + В секции [General] добавьте параметр "bAlwaysActive=1" без кавычек.
 
+**Настроить FOV камеры**
+
++ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ В секции [Camera] добавьте параметры "fFPWorldFOV=100.0", "fTPWorldFOV=100.0" и "fDefaultFOV=100.0" без кавычек.
++ В секции [FlightCamera] добавьте параметр "fFlightCameraFOV=100.0" без кавычек.
+
 |[*Назад к оглавлению*](https://github.com/Meridiano/Starfield-Head)|
 |:---:|
