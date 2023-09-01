@@ -36,5 +36,10 @@
 + В секции [Camera] добавьте параметры "fFPWorldFOV=100.0", "fTPWorldFOV=100.0" и "fDefaultFOV=100.0" без кавычек.
 + В секции [FlightCamera] добавьте параметр "fFlightCameraFOV=100.0" без кавычек.
 
+**Отключить границы при исследовании планеты**
+
++ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ В секции [General] добавьте параметр "bBorderRegionsEnabled=0" без кавычек.
+
 |[*Назад к оглавлению*](https://github.com/Meridiano/Starfield-Head)|
 |:---:|
