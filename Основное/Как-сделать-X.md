@@ -8,9 +8,9 @@
 
 **Русификация всего**
 
-+ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "DeepL-Dialogs-Alpha.zip".
-+ 01-Shared: обязательно для установки. Папку Data совместить с папкой Data в корне игры, содержимое StarfieldCustom.ini совместить с содержимым StarfieldCustom.ini в Документах.
-+ 02-DeepL-Dialogs или 03-Alpha-Version: на выбор одно из двух. Первое только диалоги, второе - альфа-версия всего. Папку Data совместить с папкой Data в корне игры.
++ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "Starfield_Rus_1geaCgVp5jGNykVnfD3eqsY2KY9smX97k.rar".
++ Проверить, чтобы не было установлено других переводов.
++ Папку Data совместить с папкой Data в корне игры, содержимое StarfieldCustom.ini совместить с содержимым StarfieldCustom.ini в Документах.
 
 **Убрать Message Of The Day**
 
