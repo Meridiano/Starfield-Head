@@ -6,6 +6,12 @@
 + Внести содержимое ini-файла архива в ini-файл игры по адресу "Документы/My Games/Starfield/StarfieldCustom.ini", если файла нет - просто скопируйте его.
 + Скопировать содержимое папки Data архива в папку Data игры.
 
+**Русификация всего**
+
++ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "DeepL-Dialogs-Alpha.zip".
++ 01-Shared: обязательно для установки. Папку Data совместить с папкой Data в корне игры, содержимое StarfieldCustom.ini совместить с содержимым StarfieldCustom.ini в Документах.
++ 02-DeepL-Dialogs или 03-Alpha-Version: на выбор одно из двух. Первое только диалоги, второе - альфа-версия всего. Папку Data совместить с папкой Data в корне игры.
+
 **Убрать Message Of The Day**
 
 + Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
