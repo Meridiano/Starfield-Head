@@ -1,16 +1,10 @@
 # Как сделать X
 
-**Русификация интерфейса**
+**Русификация игры**
 
-+ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "Starfield-Rus-0.1.7z".
-+ Внести содержимое ini-файла архива в ini-файл игры по адресу "Документы/My Games/Starfield/StarfieldCustom.ini", если файла нет - просто скопируйте его.
-+ Скопировать содержимое папки Data архива в папку Data игры.
-
-**Русификация всего**
-
-+ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "Starfield_Rus_1geaCgVp5jGNykVnfD3eqsY2KY9smX97k.rar".
++ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "Starfield-Russian-2.4.1.zip".
 + Проверить, чтобы не было установлено других переводов.
-+ Папку Data совместить с папкой Data в корне игры, содержимое StarfieldCustom.ini совместить с содержимым StarfieldCustom.ini в Документах.
++ Папку Data совместить с папкой Data в корне игры, содержимое StarfieldCustom.ini совместить с содержимым файла по пути "Документы/My Games/Starfield/StarfieldCustom.ini".
 
 **Убрать Message Of The Day**
 
