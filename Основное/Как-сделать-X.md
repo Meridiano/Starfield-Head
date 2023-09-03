@@ -26,6 +26,10 @@
 
 + По пути "Data/Video" в корне игры переименовать файл "BGS_LOGO_1080p_BinkVersion.bk2" в "BGS_LOGO_1080p_BinkVersion.bk2.backup".
 
+**Убрать цветофильтр (по возможности)**
+
++ Используйте [Neutral LUTs - No Color Filters](https://www.nexusmods.com/starfield/mods/323). Прочитайте описание, там есть и ini-твики.
+
 **Убивать бессмертных NPC** (не рекомендуется)
 
 + Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
