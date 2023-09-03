@@ -11,6 +11,10 @@
 + Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
 + В секции [General] добавьте параметр "bEnableMessageOfTheDay=0" без кавычек.
 
+**Более плавный интерфейс**
+
++ Используйте [Smooth Ship Reticle](https://www.nexusmods.com/starfield/mods/270), версию "Smooth UI Overhaul".
+
 **Заменить изображение при запуске**
 
 + По пути "Config/Images" в корне игры находится файл "SplashScreen1920x1080.png".
