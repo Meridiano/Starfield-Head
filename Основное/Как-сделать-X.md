@@ -1,14 +1,16 @@
 # Как сделать X
 
+> Внимание! Если мод требует правок в ini-файлах StarfieldCustom.ini или SkyrimPrefs.ini, то вы должны точно знать, откуда эти файлы будут читаться игрой. Если вы не используете MO2 или в вашем профиле MO2 отключена опция "profile-specific ini files", то ini-файлы читаются из папки "Документы/My Games/Starfield". В остальных случаях они читаются из папки вашего профиля MO2. Будьте внимательны к этому при внесении изменений.
+
 **Русификация игры**
 
-+ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "Starfield-Russian-2.4.1.zip".
++ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "Starfield-Russian-2.5.1.zip".
 + Проверить, чтобы не было установлено других переводов.
-+ Папку Data совместить с папкой Data в корне игры, содержимое StarfieldCustom.ini совместить с содержимым файла по пути "Документы/My Games/Starfield/StarfieldCustom.ini".
++ Установить архив как мод в MO2, внести правки StarfieldCustom.ini в вашу версию этого файла.
 
 **Убрать Message Of The Day**
 
-+ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ Правка файла "StarfieldCustom.ini".
 + В секции [General] добавьте параметр "bEnableMessageOfTheDay=0" без кавычек.
 
 **Более приятный интерфейс**
@@ -29,7 +31,7 @@
 **Пропустить интро и прочие мелочи**
 
 + Отключить видео BGS: по пути "Data/Video" в корне игры переименовать файл "BGS_LOGO_1080p_BinkVersion.bk2" в "BGS_LOGO_1080p_BinkVersion.bk2.backup".
-+ Отключить интро, ускорить переходы: правьте "Документы/My Games/Starfield/StarfieldCustom.ini".
++ Отключить интро, ускорить переходы: правки файла "StarfieldCustom.ini".
 ```
 [Camera]
 iDialogueTransitionMillis=10
@@ -54,7 +56,7 @@ fDataMenuFadeInToGameTime=0.0001
 
 **Джетпак через удержание клавиши**
 
-+ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ Правка файла "StarfieldCustom.ini".
 + В секции [Boostpack] добавьте параметр "bUsePressAndHoldControls=1" без кавычек.
 
 **Изменить цветофильтр (по возможности)**
@@ -68,31 +70,31 @@ fDataMenuFadeInToGameTime=0.0001
 
 **Убивать бессмертных NPC** (не рекомендуется)
 
-+ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ Правка файла "StarfieldCustom.ini".
 + В секции [GamePlay] добавьте параметр "bEssentialTakeNoDamage=0" без кавычек.
 
 **Отключить паузу у свёрнутой игры**
 
-+ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ Правка файла "StarfieldCustom.ini".
 + В секции [General] добавьте параметр "bAlwaysActive=1" без кавычек.
 
 **Настроить FOV камеры**
 
-+ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ Правки файла "StarfieldCustom.ini".
 + В секции [Camera] добавьте параметры "fFPWorldFOV=100.0", "fTPWorldFOV=100.0" и "fDefaultFOV=100.0" без кавычек.
 + В секции [FlightCamera] добавьте параметр "fFlightCameraFOV=100.0" без кавычек.
 + В секции [Dialogue] добавьте параметры "fDialogueCameraCollisionRadius=2.0" и "fDialogueCameraFailsafeFPFOV=100.0". Это опционально, для отключения приближения камеры в диалогах.
 
 **Отключить границы при исследовании планеты**
 
-+ Откройте файл "Документы/My Games/Starfield/StarfieldCustom.ini".
++ Правка файла "StarfieldCustom.ini".
 + В секции [General] добавьте параметр "bBorderRegionsEnabled=0" без кавычек.
 + Внимание! При заходе слишком далеко игра становится нестабильной и крашится.
 
 **Включить достижения Steam обратно**
 
-+ Используйте [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/latest) и [Achievement Enabler](https://www.nexusmods.com/starfield/mods/252).
-+ Внимательно следуйте инструкции по установке на странице Achievement Enabler!
++ Используйте [Baka Achievement Enabler](https://www.nexusmods.com/starfield/mods/658), установите его как обычный мод в MO2.
++ Требуется SFSE, инструкция по установке есть в [Установке модов](../Моддинг/Установка-модов.md).
 
 ------
 
