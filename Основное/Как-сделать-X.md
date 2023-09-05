@@ -17,6 +17,10 @@
 + Для компактного интерфейса - [моды Stentorious](https://www.nexusmods.com/starfield/users/13373850?tab=user+files) из серии Compact UI.
 + Не забудьте про патчи совместимости между всеми модами.
 
+**Убрать фон субтитров**
+
++ Используйте [Spicy Clean Subtitles](https://www.nexusmods.com/starfield/mods/539) (с патчами по необходимости).
+
 **Заменить изображение при запуске**
 
 + По пути "Config/Images" в корне игры находится файл "SplashScreen1920x1080.png".
