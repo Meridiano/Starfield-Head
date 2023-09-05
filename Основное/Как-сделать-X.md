@@ -17,7 +17,8 @@
 
 + Используйте [Undelayed Menus](https://www.nexusmods.com/starfield/mods/404) для быстрых переходов и 60 FPS.
 + Для компактного интерфейса - [моды Stentorious](https://www.nexusmods.com/starfield/users/13373850?tab=user+files) из серии Compact UI.
-+ Не забудьте про патчи совместимости между всеми модами.
++ Для подробного интерфейса - [StarUI Inventory](https://www.nexusmods.com/starfield/mods/773).
++ Учитывайте порядок перезаписи в MO2, файлы одних модов перезаписывают другие.
 
 **Убрать фон субтитров**
 
