@@ -31,8 +31,7 @@
 
 **Пропустить интро и прочие мелочи**
 
-+ Отключить видео BGS: по пути "Data/Video" в корне игры переименовать файл "BGS_LOGO_1080p_BinkVersion.bk2" в "BGS_LOGO_1080p_BinkVersion.bk2.backup".
-+ Отключить интро, ускорить переходы: правки файла "StarfieldCustom.ini".
++ Отключить видео, ускорить переходы: правки файла "StarfieldCustom.ini".
 ```
 [Camera]
 iDialogueTransitionMillis=10
