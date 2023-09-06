@@ -38,21 +38,20 @@
 iDialogueTransitionMillis=10
 
 [General]
-fAutoDoorFadeSecs=0.0001
-fFastTravelFadeSecs=0.0001
-fLoadGameFadeSecs=0.0001
-fNormalDoorFadeSecs=0.0001
-fNormalDoorFadeWait=0.0001
+fAutoDoorFadeSecs=0.001
+fFastTravelFadeSecs=0.001
+fLoadGameFadeSecs=0.001
+fNormalDoorFadeSecs=0.001
+fNormalDoorFadeWait=0.001
 
 [Dialogue]
 bDialogueDelayMenuExit=0.001
-sIntroSequence=0
 uMainMenuDelayBeforeAllowSkip=0
 
 [Interface]
-fFadeToBlackFadeSeconds=0.0001
-fSleepFaderTime=0.0001
-fDataMenuFadeInToGameTime=0.0001
+fSleepFaderTime=0.001
+fFadeToBlackFadeSeconds=0.001
+fDataMenuFadeInToGameTime=0.001
 ```
 
 **Джетпак через удержание клавиши**
