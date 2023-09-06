@@ -31,7 +31,7 @@
 
 **Пропустить интро и прочие мелочи**
 
-+ Отключить видео, ускорить переходы: правки файла "StarfieldCustom.ini".
++ Правки файла "StarfieldCustom.ini".
 ```
 [Camera]
 iDialogueTransitionMillis=10
@@ -81,9 +81,19 @@ fDataMenuFadeInToGameTime=0.001
 **Настроить FOV камеры**
 
 + Правки файла "StarfieldCustom.ini".
-+ В секции [Camera] добавьте параметры "fFPWorldFOV=100.0", "fTPWorldFOV=100.0" и "fDefaultFOV=100.0" без кавычек.
-+ В секции [FlightCamera] добавьте параметр "fFlightCameraFOV=100.0" без кавычек.
-+ В секции [Dialogue] добавьте параметры "fDialogueCameraCollisionRadius=2.0" и "fDialogueCameraFailsafeFPFOV=100.0". Это опционально, для отключения приближения камеры в диалогах.
+```
+[Camera]
+fFPWorldFOV=100.0
+fTPWorldFOV=100.0
+fDefaultFOV=100.0
+
+[FlightCamera]
+fFlightCameraFOV=100.0
+
+[Dialogue]
+fDialogueCameraCollisionRadius=2.0
+fDialogueCameraFailsafeFPFOV=100.0
+```
 
 **Отключить границы при исследовании планеты**
 
