@@ -43,10 +43,11 @@ fFastTravelFadeSecs=0.001
 fLoadGameFadeSecs=0.001
 fNormalDoorFadeSecs=0.001
 fNormalDoorFadeWait=0.001
+sIntroSequence=?
+uMainMenuDelayBeforeAllowSkip=0
 
 [Dialogue]
 bDialogueDelayMenuExit=0.001
-uMainMenuDelayBeforeAllowSkip=0
 
 [Interface]
 fSleepFaderTime=0.001
