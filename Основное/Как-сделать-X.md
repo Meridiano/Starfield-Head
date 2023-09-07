@@ -24,6 +24,10 @@
 
 + Используйте [Spicy Clean Subtitles](https://www.nexusmods.com/starfield/mods/539) (с патчами по необходимости).
 
+**Выбор опций диалога по цифрам**
+
++ Используйте [Better Dialogue Controls](https://www.nexusmods.com/starfield/mods/1223).
+
 **Заменить изображение при запуске**
 
 + По пути "Config/Images" в корне игры находится файл "SplashScreen1920x1080.png".
@@ -61,7 +65,7 @@ fDataMenuFadeInToGameTime=0.001
 
 **Изменить цветофильтр (по возможности)**
 
-+ Чтобы отключить, используйте [Neutral LUTs - No Color Filters](https://www.nexusmods.com/starfield/mods/323). Прочитайте описание, там есть и ini-твики.
++ Чтобы отключить, используйте [Neutral LUTs - No Color Filters](https://www.nexusmods.com/starfield/mods/323).
 + Чтобы просто ослабить, используйте [Reduced LUTs - Cleaner Colors and Enhanced Contrast](https://www.nexusmods.com/starfield/mods/589).
 
 **Более чёрный космос**
@@ -78,9 +82,33 @@ fStarfieldStarCoordScale=10.0
 fSunScale=1.0
 ```
 
-**Настройка входящего/исходящего урона**
+**Убрать "ультразвук" из меню**
+
++ Используйте [Starfield High Pitch SFX Tinnitus Fix](https://www.nexusmods.com/starfield/mods/787).
+
+**Уменьшение времени сканирования до 1 сек.**
+
++ Используйте [Instant Scan](https://www.nexusmods.com/starfield/mods/759). Мод представляет из себя bat-файл, который вы должны применять при загрузке. Прочтите инструкцию по установке.
+
+**Настройка урона и кол-ва здоровья врагов**
 
 + Содержится в [Gameplay Tweaks and Fixes](https://www.nexusmods.com/starfield/mods/241). Мод представляет из себя bat-файл, который применяется при загрузке и меняет настройки.
+
+**Быстрые переходы у верстаков и т.д.**
+
++ [Faster Workbenches](https://www.nexusmods.com/starfield/mods/1190).
++ [Faster Pilot Seats](https://www.nexusmods.com/starfield/mods/1237).
++ [Faster switch from combat to relaxed stance](https://www.nexusmods.com/starfield/mods/1148).
++ [Ship Skip - Instant Station Docking and More](https://www.nexusmods.com/starfield/mods/1056).
+
+**Изменить гамму (2.4 по умолчанию)**
+
++ Правка файла "StarfieldCustom.ini".
++ В секции [Display] добавьте параметр "fGamma=2.6" без кавычек.
+
+**Качественные текстуры эффектов**
+
++ Используйте [Effect Textures Enhanced](https://www.nexusmods.com/starfield/mods/340).
 
 **Убивать бессмертных NPC** (не рекомендуется)
 
