@@ -4,7 +4,7 @@
 
 **Русификация игры**
 
-+ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "Starfield-Russian-2.5.1.zip".
++ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "Starfield-Russian-0.4.2.zip".
 + Проверить, чтобы не было установлено других переводов.
 + Установить архив как мод в MO2, внести правки StarfieldCustom.ini в вашу версию этого файла.
 

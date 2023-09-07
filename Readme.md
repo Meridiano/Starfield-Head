@@ -13,4 +13,4 @@
 + *Patreon-Related*
 + *Character-Creation.pdf* - превью трейтов, предысторий и навыков игрока.
 + *No Blacks (07.09.2023).7z* - мод для расистов.
-+ *Starfield-Russian-2.5.1.zip* - русификатор от [ZoG](https://www.zoneofgames.ru/games/starfield/files/8415.html).
++ *Starfield-Russian-0.4.2.zip* - русификатор от [ZoG](https://www.zoneofgames.ru/games/starfield/files/8415.html).
