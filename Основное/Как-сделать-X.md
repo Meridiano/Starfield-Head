@@ -64,6 +64,20 @@ fDataMenuFadeInToGameTime=0.001
 + Чтобы отключить, используйте [Neutral LUTs - No Color Filters](https://www.nexusmods.com/starfield/mods/323). Прочитайте описание, там есть и ini-твики.
 + Чтобы просто ослабить, используйте [Reduced LUTs - Cleaner Colors and Enhanced Contrast](https://www.nexusmods.com/starfield/mods/589).
 
+**Более чёрный космос**
+
++ Правки файла "StarfieldCustom.ini".
+```
+[Display]
+fSpaceGlowBackgroundScale=0.0
+fStarIntensity=2500.0
+fStarSystemFarViewDistance=10000000000.0
+fStarfieldBackgroundScale=35.0
+fStarfieldStarBrightnessScale=10.0
+fStarfieldStarCoordScale=10.0
+fSunScale=1.0
+```
+
 **Настройка входящего/исходящего урона**
 
 + Содержится в [Gameplay Tweaks and Fixes](https://www.nexusmods.com/starfield/mods/241). Мод представляет из себя bat-файл, который применяется при загрузке и меняет настройки.
@@ -93,6 +107,15 @@ fFlightCameraFOV=100.0
 [Dialogue]
 fDialogueCameraCollisionRadius=2.0
 fDialogueCameraFailsafeFPFOV=100.0
+```
+
+**Быстрое перетаскивание**
+
++ Правки файла "StarfieldCustom.ini".
+```
+[Controls]
+fQCZKeyDelay=0.05
+fZKeyDelay=0.05
 ```
 
 **Отключить границы при исследовании планеты**
