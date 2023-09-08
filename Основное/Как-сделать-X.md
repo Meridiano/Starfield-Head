@@ -137,7 +137,7 @@ fDialogueCameraCollisionRadius=2.0
 fDialogueCameraFailsafeFPFOV=100.0
 ```
 
-**Быстрое перетаскивание**
+**Быстрое перетаскивание предметов**
 
 + Правки файла "StarfieldCustom.ini".
 ```
