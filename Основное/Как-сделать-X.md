@@ -191,7 +191,7 @@ anti-ballistic    13369E﻿    -15% incoming dmg from ranged weapons
 fastened           2EDE4E﻿    +20 carry capacity
 auto medic         0C9A43﻿    automatically use a med pack when hit and health is below 25%, 60s cd
 galvanized         0710F7﻿    +25 corrosive resistance
-incendiary         07D728﻿    randomly deal fire damage (работает вместе с другим incendiary)
+incendiary         07D728﻿    randomly deal fire damage (работает вместе с incendiary из 1-ой группы)
 liquid cooled      0710F6﻿    +25 thermal resistance
 resource hauler    060293﻿    resources weigh 25% less
 analyzer           0690AF﻿    +10% dmg to scanned targets
