@@ -163,18 +163,6 @@ fSunScale=1.0
 ```
 Группа #1
 
-sensor chip       2C43DB    ﻿+20% acc while moving
-sentinel          0BE540﻿    75% chance to take 50% less dmg while not moving
-headhunter        2C43DC﻿    +25% dmg on next attack after a headshot
-armor plated      2EDE59﻿    -10% dmg from physical,energy and em
-mechanized        0BE542﻿    +40 carry capacity
-assisted carry    2EDE4F﻿    reduces o2 consumption while encumbered by 75%
-incendiary        002983﻿    10% chance to ignite nearby attackers
-mirrored          059AE8﻿    4% chance to reflect attacks
-repulsing         06029d﻿    5% chance to disarm nearby attackers
-
-Группа #2
-
 o2 boosted        0690B0﻿    +20% oxygen
 combat veteran    1336BE﻿    -15% dmg from humans
 beast hunter      1336BD﻿    -15% dmg from aliens
@@ -186,12 +174,12 @@ bolstering        1336C6﻿    grants up to +100 energy and physical resistance,
 technician        1336BC﻿    -15% dmg from robots
 anti-ballistic    13369E﻿    -15% incoming dmg from ranged weapons
 
-Группа #3
+Группа #2
 
 fastened           2EDE4E﻿    +20 carry capacity
 auto medic         0C9A43﻿    automatically use a med pack when hit and health is below 25%, 60s cd
 galvanized         0710F7﻿    +25 corrosive resistance
-incendiary         07D728﻿    randomly deal fire damage (работает вместе с incendiary из 1-ой группы)
+incendiary         07D728﻿    randomly deal fire damage
 liquid cooled      0710F6﻿    +25 thermal resistance
 resource hauler    060293﻿    resources weigh 25% less
 analyzer           0690AF﻿    +10% dmg to scanned targets
@@ -201,6 +189,17 @@ weapon holsters    060295    weapons weigh 50% less
 acrobat            0710FD﻿    reduces fall dmg by 50%
 antiseptic         0710FA﻿    +25 airborne resistance
 staggering         0E8D64﻿    small chance to stagger enemies
+
+Группа #3
+sensor chip       2C43DB    ﻿+20% acc while moving
+sentinel          0BE540﻿    75% chance to take 50% less dmg while not moving
+headhunter        2C43DC﻿    +25% dmg on next attack after a headshot
+armor plated      2EDE59﻿    -10% dmg from physical,energy and em
+mechanized        0BE542﻿    +40 carry capacity
+assisted carry    2EDE4F﻿    reduces o2 consumption while encumbered by 75%
+incendiary        002983﻿    10% chance to ignite nearby attackers (работает вместе с incendiary из 2-ой группы)
+mirrored          059AE8﻿    4% chance to reflect attacks
+repulsing         06029d﻿    5% chance to disarm nearby attackers
 ```
 
 **Убивать бессмертных NPC** (не рекомендуется)
