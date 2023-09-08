@@ -2,6 +2,8 @@
 
 > Внимание! Если мод требует правок в ini-файлах StarfieldCustom.ini или SkyrimPrefs.ini, то вы должны точно знать, откуда эти файлы будут читаться игрой. Если вы не используете MO2 или в вашем профиле MO2 отключена опция "profile-specific ini-files", то ini-файлы читаются из папки "Документы/My Games/Starfield". В остальных случаях они читаются из папки вашего профиля MO2. В любом из двух случаев вы можете использовать редактор ini-файлов игры, встроенный в MO2, он всегда открывает именно те файлы, которые читаются игрой.
 
+## Интерфейс
+
 **Русификация игры**
 
 + Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файл "Starfield-Russian-0.4.2.zip".
@@ -28,10 +30,29 @@
 
 + Используйте [Better Dialogue Controls](https://www.nexusmods.com/starfield/mods/1223).
 
-**Заменить изображение при запуске**
+**Убрать "ультразвук" из меню**
 
-+ По пути "Config/Images" в корне игры находится файл "SplashScreen1920x1080.png".
-+ Можете заменить его на любое изображение, даже с прозрачностью.
++ Используйте [Starfield High Pitch SFX Tinnitus Fix](https://www.nexusmods.com/starfield/mods/787).
+
+## Функционал
+
+**Настроить FOV камеры**
+
++ Правки файла "StarfieldCustom.ini".
+```
+[Camera]
+fFPWorldFOV=100.0
+fTPWorldFOV=100.0
+fDefaultFOV=100.0
+
+[FlightCamera]
+fFlightCameraFOV=100.0
+
+[Dialogue]
+; установка FOV в диалогах
+fDialogueCameraCollisionRadius=2.0
+fDialogueCameraFailsafeFPFOV=100.0
+```
 
 **Пропустить интро и прочие мелочи**
 
@@ -58,10 +79,38 @@ fFadeToBlackFadeSeconds=0.001
 fDataMenuFadeInToGameTime=0.001
 ```
 
+**Быстрое перетаскивание предметов**
+
++ Правки файла "StarfieldCustom.ini".
+```
+[Controls]
+fQCZKeyDelay=0.05
+fZKeyDelay=0.05
+```
+
 **Джетпак через удержание клавиши**
 
 + Правка файла "StarfieldCustom.ini".
 + В секции [Boostpack] добавьте параметр "bUsePressAndHoldControls=1" без кавычек.
+
+**Уменьшение времени сканирования до 1 сек.**
+
++ Используйте [Instant Scan](https://www.nexusmods.com/starfield/mods/759).
++ Мод представляет из себя bat-файл, который вы должны применять при загрузке. Прочтите инструкцию по установке.
+
+**Настройка урона и кол-ва здоровья врагов**
+
++ Содержится в [Gameplay Tweaks and Fixes](https://www.nexusmods.com/starfield/mods/241).
++ Мод представляет из себя bat-файл, который вы должны применять при загрузке. Прочтите инструкцию по установке.
+
+**Быстрые переходы у верстаков и т.д.**
+
++ [Faster Workbenches](https://www.nexusmods.com/starfield/mods/1190).
++ [Faster Pilot Seats](https://www.nexusmods.com/starfield/mods/1237).
++ [Faster switch from combat to relaxed stance](https://www.nexusmods.com/starfield/mods/1148).
++ [Ship Skip - Instant Station Docking and More](https://www.nexusmods.com/starfield/mods/1056).
+
+## Графика
 
 **Изменить цветофильтр (по возможности)**
 
@@ -82,25 +131,6 @@ fStarfieldStarCoordScale=10.0
 fSunScale=1.0
 ```
 
-**Убрать "ультразвук" из меню**
-
-+ Используйте [Starfield High Pitch SFX Tinnitus Fix](https://www.nexusmods.com/starfield/mods/787).
-
-**Уменьшение времени сканирования до 1 сек.**
-
-+ Используйте [Instant Scan](https://www.nexusmods.com/starfield/mods/759). Мод представляет из себя bat-файл, который вы должны применять при загрузке. Прочтите инструкцию по установке.
-
-**Настройка урона и кол-ва здоровья врагов**
-
-+ Содержится в [Gameplay Tweaks and Fixes](https://www.nexusmods.com/starfield/mods/241). Мод представляет из себя bat-файл, который применяется при загрузке и меняет настройки.
-
-**Быстрые переходы у верстаков и т.д.**
-
-+ [Faster Workbenches](https://www.nexusmods.com/starfield/mods/1190).
-+ [Faster Pilot Seats](https://www.nexusmods.com/starfield/mods/1237).
-+ [Faster switch from combat to relaxed stance](https://www.nexusmods.com/starfield/mods/1148).
-+ [Ship Skip - Instant Station Docking and More](https://www.nexusmods.com/starfield/mods/1056).
-
 **Изменить гамму** (2.4 по умолчанию)
 
 + Правка файла "StarfieldCustom.ini".
@@ -109,6 +139,13 @@ fSunScale=1.0
 **Качественные текстуры эффектов**
 
 + Используйте [Effect Textures Enhanced](https://www.nexusmods.com/starfield/mods/340).
+
+**Заменить изображение при запуске**
+
++ По пути "Config/Images" в корне игры находится файл "SplashScreen1920x1080.png".
++ Можете заменить его на любое изображение, даже с прозрачностью.
+
+## Прочее
 
 **Убивать бессмертных NPC** (не рекомендуется)
 
@@ -119,32 +156,6 @@ fSunScale=1.0
 
 + Правка файла "StarfieldCustom.ini".
 + В секции [General] добавьте параметр "bAlwaysActive=1" без кавычек.
-
-**Настроить FOV камеры**
-
-+ Правки файла "StarfieldCustom.ini".
-```
-[Camera]
-fFPWorldFOV=100.0
-fTPWorldFOV=100.0
-fDefaultFOV=100.0
-
-[FlightCamera]
-fFlightCameraFOV=100.0
-
-[Dialogue]
-fDialogueCameraCollisionRadius=2.0
-fDialogueCameraFailsafeFPFOV=100.0
-```
-
-**Быстрое перетаскивание предметов**
-
-+ Правки файла "StarfieldCustom.ini".
-```
-[Controls]
-fQCZKeyDelay=0.05
-fZKeyDelay=0.05
-```
 
 **Отключить границы при исследовании планеты**
 
