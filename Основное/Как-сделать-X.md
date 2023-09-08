@@ -155,6 +155,7 @@ fSunScale=1.0
 <details><summary>Для брони должен быть тип ARMO, ID FFXXXXXX. Используйте консольную команду AMod.</summary><p>
 
 Базовое качество брони влияет на основные защитные характеристики.
+
 ```
 ﻿11E2BB    mod_Armor_Spacesuit_Quality_01
 11E2BC    mod_Armor_Spacesuit_Quality_02
@@ -174,9 +175,11 @@ fSunScale=1.0
 1CAE36    mod_Armor_Backpack_Quality_04
 03AF7F    mod_Armor_Backpack_Quality_05
 ```
+
 </p></details>
 
 <details><summary>Эта же команда может добавлять броне трейты, максимум 3 трейта, по одному из каждой группы.</summary><p>
+
 ```
 Скафандры, Группа 1
 
@@ -238,9 +241,11 @@ Fastened    2EDE4E    +20 carry capacity.
 Armor-Plated      2EDE59    -10% incoming Physical, Energy, and EM damage.
 Assisted Carry    2EDE4F    Drain 75% less O2 when running while encumbered.
 ```
+
 </p></details>
 
 <details><summary>С оружием всё работает точно так же, но тип должен быть WEAP.</summary><p>
+
 ```
 Оружие, Группа 1
 
