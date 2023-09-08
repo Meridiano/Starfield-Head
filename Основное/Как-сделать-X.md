@@ -315,6 +315,8 @@ Titanium Build    0FFA3D    Premium build materials make this weapon light as a 
 
 </p></details>
 
++ Для удаления модификатора используйте аналогичную команду RMod.
+
 **Убивать бессмертных NPC** (не рекомендуется)
 
 + Правка файла "StarfieldCustom.ini".
