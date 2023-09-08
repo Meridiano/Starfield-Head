@@ -148,6 +148,62 @@ fSunScale=1.0
 
 ## Прочее
 
+**Добавить трейты на броню**
+
++ Выбросьте предмет на землю и выберите его в консоли (должен быть тип ARMO, ID FFXXXXXX).
++ Используйте консольную команду AMod, чтобы изменить базовое качество брони.
+```
+﻿11E2BB    mod_Armor_Spacesuit_Quality_01
+11E2BC    mod_Armor_Spacesuit_Quality_02
+11E2BA    mod_Armor_Spacesuit_Quality_03
+11E2B9    mod_Armor_Spacesuit_Quality_04
+03AF7D    mod_Armor_Spacesuit_Quality_05
+```
++ Эта же команда может добавлять броне трейты, максимум 3 трейта, по одному из каждой группы.
+```
+Группа #1
+
+sensor chip       2c43db    ﻿+20% acc while moving
+sentinel          0be540﻿    75% chance to take 50% less dmg while not moving
+headhunter        2c43dc﻿    +25% dmg on next attack after a headshot
+armor plated      2ede59﻿    -10% dmg from physical,energy and em
+mechanized        0be542﻿    +40 carry capacity
+assisted carry    2EDE4F﻿    reduces o2 consumption while encumbered by 75%
+incendiary        002983﻿    10% chance to ignite nearby attackers
+mirrored          059ae8﻿    4% chance to reflect attacks
+repulsing         06029d﻿    5% chance to disarm nearby attackers
+
+Группа #2
+
+o2 boosted        0690b0﻿    +20% oxygen
+combat veteran    1336be﻿    -15% dmg from humans
+beast hunter      1336bd﻿-    15% dmg from aliens
+chameleon         1336c1﻿    makes you invisible in sneak while not moving
+ablative          13369c﻿    -15% incoming energy damage
+incendiary        002983﻿    10% chance to ignite nearby attackers
+sturdy            133699﻿    -15% incoming melee dmg
+o2 filter         0690ae﻿    -25% oxygen consumption
+bolstering        1336c6﻿    grants up to +100 energy and physical resistance, the lower your health
+technician        1336bc﻿    -15% dmg from robots
+anti-ballistic    13369e﻿    -15% incoming dmg from ranged weapons
+
+Группа #3
+
+fastened           2ede4e﻿    +20 carry capacity
+auto medic         0c9a43﻿    automatically use a med pack when hit and health is below 25%, 60s cd
+galvanized         0710f7﻿    +25 corrosive resistance
+incendiary         07d728﻿    randomly deal fire damage (works with the other incendiary mod too)
+liquid cooled      0710f6﻿    +25 thermal resistance
+resource hauler    060293﻿    resources weigh 25% less
+analyzer           0690af﻿    +10% dmg to scanned targets
+leadlined          0710f5﻿    +25 radiation resistance
+hacker             2c43da﻿    +2 max auto attempts that can be banked while hacking
+weapon holsters    060295    weapons weigh 50% less
+acrobat            0710fd﻿    reduces fall dmg by 50%
+antiseptic         0710fa﻿    +25 airborne resistance
+staggering         0e8d64﻿    small chance to stagger enemies
+```
+
 **Убивать бессмертных NPC** (не рекомендуется)
 
 + Правка файла "StarfieldCustom.ini".
