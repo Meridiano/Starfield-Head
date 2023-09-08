@@ -159,11 +159,11 @@ fSunScale=1.0
 + Удалите файлы "winmm.dll" и "winmm.ini" из мода Starfield Frame Generation.
 + Скопируйте файлы "nvngx_dlss.dll" и "nvngx_dlssg.dll" в папку "streamline" мода Starfield Frame Generation.
 
-<details><summary>Структура мода после всех действий должна выглядеть так.</summary><p>
+    <details><summary>Структура мода после всех действий должна выглядеть так.</summary><p>
 
-![](Как-сделать-X/DLSS-3-FG-Mod.png)
+    ![](Как-сделать-X/DLSS-3-FG-Mod.png)
 
-</p></details>
+    </p></details>
 
 **Заменить изображение при запуске**
 
