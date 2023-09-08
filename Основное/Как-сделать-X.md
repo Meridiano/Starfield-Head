@@ -101,7 +101,7 @@ fSunScale=1.0
 + [Faster switch from combat to relaxed stance](https://www.nexusmods.com/starfield/mods/1148).
 + [Ship Skip - Instant Station Docking and More](https://www.nexusmods.com/starfield/mods/1056).
 
-**Изменить гамму (2.4 по умолчанию)**
+**Изменить гамму** (2.4 по умолчанию)
 
 + Правка файла "StarfieldCustom.ini".
 + В секции [Display] добавьте параметр "fGamma=2.6" без кавычек.
