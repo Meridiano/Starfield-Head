@@ -163,45 +163,44 @@ fSunScale=1.0
 ```
 Группа #1
 
-sensor chip       2c43db    ﻿+20% acc while moving
-sentinel          0be540﻿    75% chance to take 50% less dmg while not moving
-headhunter        2c43dc﻿    +25% dmg on next attack after a headshot
-armor plated      2ede59﻿    -10% dmg from physical,energy and em
-mechanized        0be542﻿    +40 carry capacity
+sensor chip       2C43DB    ﻿+20% acc while moving
+sentinel          0BE540﻿    75% chance to take 50% less dmg while not moving
+headhunter        2C43DC﻿    +25% dmg on next attack after a headshot
+armor plated      2EDE59﻿    -10% dmg from physical,energy and em
+mechanized        0BE542﻿    +40 carry capacity
 assisted carry    2EDE4F﻿    reduces o2 consumption while encumbered by 75%
 incendiary        002983﻿    10% chance to ignite nearby attackers
-mirrored          059ae8﻿    4% chance to reflect attacks
+mirrored          059AE8﻿    4% chance to reflect attacks
 repulsing         06029d﻿    5% chance to disarm nearby attackers
 
 Группа #2
 
-o2 boosted        0690b0﻿    +20% oxygen
-combat veteran    1336be﻿    -15% dmg from humans
-beast hunter      1336bd﻿    -15% dmg from aliens
-chameleon         1336c1﻿    makes you invisible in sneak while not moving
-ablative          13369c﻿    -15% incoming energy damage
-incendiary        002983﻿    10% chance to ignite nearby attackers
+o2 boosted        0690B0﻿    +20% oxygen
+combat veteran    1336BE﻿    -15% dmg from humans
+beast hunter      1336BD﻿    -15% dmg from aliens
+chameleon         1336C1﻿    makes you invisible in sneak while not moving
+ablative          13369C﻿    -15% incoming energy damage
 sturdy            133699﻿    -15% incoming melee dmg
-o2 filter         0690ae﻿    -25% oxygen consumption
-bolstering        1336c6﻿    grants up to +100 energy and physical resistance, the lower your health
-technician        1336bc﻿    -15% dmg from robots
-anti-ballistic    13369e﻿    -15% incoming dmg from ranged weapons
+o2 filter         0690AE﻿    -25% oxygen consumption
+bolstering        1336C6﻿    grants up to +100 energy and physical resistance, the lower your health
+technician        1336BC﻿    -15% dmg from robots
+anti-ballistic    13369E﻿    -15% incoming dmg from ranged weapons
 
 Группа #3
 
-fastened           2ede4e﻿    +20 carry capacity
-auto medic         0c9a43﻿    automatically use a med pack when hit and health is below 25%, 60s cd
-galvanized         0710f7﻿    +25 corrosive resistance
-incendiary         07d728﻿    randomly deal fire damage (works with the other incendiary mod too)
-liquid cooled      0710f6﻿    +25 thermal resistance
+fastened           2EDE4E﻿    +20 carry capacity
+auto medic         0C9A43﻿    automatically use a med pack when hit and health is below 25%, 60s cd
+galvanized         0710F7﻿    +25 corrosive resistance
+incendiary         07D728﻿    randomly deal fire damage (работает вместе с другим incendiary)
+liquid cooled      0710F6﻿    +25 thermal resistance
 resource hauler    060293﻿    resources weigh 25% less
-analyzer           0690af﻿    +10% dmg to scanned targets
-leadlined          0710f5﻿    +25 radiation resistance
-hacker             2c43da﻿    +2 max auto attempts that can be banked while hacking
+analyzer           0690AF﻿    +10% dmg to scanned targets
+leadlined          0710F5﻿    +25 radiation resistance
+hacker             2C43DA﻿    +2 max auto attempts that can be banked while hacking
 weapon holsters    060295    weapons weigh 50% less
-acrobat            0710fd﻿    reduces fall dmg by 50%
-antiseptic         0710fa﻿    +25 airborne resistance
-staggering         0e8d64﻿    small chance to stagger enemies
+acrobat            0710FD﻿    reduces fall dmg by 50%
+antiseptic         0710FA﻿    +25 airborne resistance
+staggering         0E8D64﻿    small chance to stagger enemies
 ```
 
 **Убивать бессмертных NPC** (не рекомендуется)
