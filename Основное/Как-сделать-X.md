@@ -177,7 +177,7 @@ repulsing         06029d﻿    5% chance to disarm nearby attackers
 
 o2 boosted        0690b0﻿    +20% oxygen
 combat veteran    1336be﻿    -15% dmg from humans
-beast hunter      1336bd﻿-    15% dmg from aliens
+beast hunter      1336bd﻿    -15% dmg from aliens
 chameleon         1336c1﻿    makes you invisible in sneak while not moving
 ablative          13369c﻿    -15% incoming energy damage
 incendiary        002983﻿    10% chance to ignite nearby attackers
