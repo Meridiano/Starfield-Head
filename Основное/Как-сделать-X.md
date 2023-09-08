@@ -147,11 +147,11 @@ fSunScale=1.0
 + Удалите файлы "winmm.dll" и "winmm.ini" из мода Starfield FSR2 Bridge.
 + Скопируйте файл "nvngx_dlss.dll" в папку мода Starfield FSR2 Bridge.
 
-<details><summary>Структура мода после всех действий должна выглядеть так.</summary><p>
+    <details><summary>Структура мода после всех действий должна выглядеть так.</summary><p>
 
-![](Как-сделать-X/DLSS-2-Mod.png)
+    ![](Как-сделать-X/DLSS-2-Mod.png)
 
-</p></details>
+    </p></details>
 
 **Заменить FSR2 на DLSS-3-FG**
 
@@ -176,9 +176,9 @@ fSunScale=1.0
 
 + Выбросьте предмет на землю и выберите его в консоли. Можно использовать скролл мышью.
 
-<details><summary>Для брони должен быть тип ARMO, ID FFXXXXXX. Используйте консольную команду AMod.</summary><p>
+    <details><summary>Для брони должен быть тип ARMO, ID FFXXXXXX. Используйте консольную команду AMod.</summary><p>
 
-Базовое качество брони влияет на основные защитные характеристики.
+    Базовое качество брони влияет на основные защитные характеристики.
 
 ```
 ﻿11E2BB    mod_Armor_Spacesuit_Quality_01
@@ -200,9 +200,9 @@ fSunScale=1.0
 03AF7F    mod_Armor_Backpack_Quality_05
 ```
 
-</p></details>
+    </p></details>
 
-<details><summary>Эта же команда может добавлять броне трейты, максимум 3 трейта, по одному из каждой группы.</summary><p>
+    <details><summary>Эта же команда может добавлять броне трейты, максимум 3 трейта, по одному из каждой группы.</summary><p>
 
 ```
 Скафандры, Группа 1
@@ -266,9 +266,9 @@ Armor-Plated      2EDE59    -10% incoming Physical, Energy, and EM damage.
 Assisted Carry    2EDE4F    Drain 75% less O2 when running while encumbered.
 ```
 
-</p></details>
+    </p></details>
 
-<details><summary>С оружием всё работает точно так же, но тип должен быть WEAP.</summary><p>
+    <details><summary>С оружием всё работает точно так же, но тип должен быть WEAP.</summary><p>
 
 ```
 Оружие, Группа 1
@@ -313,7 +313,7 @@ Tesla             31C0C6    Rounds will sometimes emit electricity where they la
 Titanium Build    0FFA3D    Premium build materials make this weapon light as a feather.
 ```
 
-</p></details>
+    </p></details>
 
 **Убивать бессмертных NPC** (не рекомендуется)
 
