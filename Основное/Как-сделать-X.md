@@ -141,6 +141,15 @@ fSunScale=1.0
 
 + Используйте [Effect Textures Enhanced](https://www.nexusmods.com/starfield/mods/340).
 
+**Заменить FSR2 на DLSS-2 или DLSS-3-FG**
+
++ Установите [SFSE ASI Loader](https://www.nexusmods.com/starfield/mods/857) и [Starfield Frame Generation](https://www.nexusmods.com/starfield/mods/761) как обычные моды в MO2.
++ Удалите файлы "winmm.dll" и "winmm.ini" из мода Starfield Frame Generation.
++ Скопируйте файлы "nvngx_dlss.dll" и "nvngx_dlssg.dll" в папку "streamline" мода Starfield Frame Generation.
++ Структура мода после всех действий должна выглядеть так.
+
+    ![](Как-сделать-X/DLSS-3-FG-Mod.png)
+
 **Заменить изображение при запуске**
 
 + По пути "Config/Images" в корне игры находится файл "SplashScreen1920x1080.png".
