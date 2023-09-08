@@ -176,11 +176,11 @@ fSunScale=1.0
 
 + Выбросьте предмет на землю и выберите его в консоли. Можно использовать скролл мышью.
 
-    <details><summary>Для брони должен быть тип ARMO, ID FFXXXXXX. Используйте консольную команду AMod.</summary><p>
+<details><summary>Для брони должен быть тип ARMO, ID FFXXXXXX. Используйте консольную команду AMod.</summary><p>
 
-    Базовое качество брони влияет на основные защитные характеристики.
+Базовое качество брони влияет на основные защитные характеристики.
 
-    ```
+```
 ﻿11E2BB    mod_Armor_Spacesuit_Quality_01
 11E2BC    mod_Armor_Spacesuit_Quality_02
 11E2BA    mod_Armor_Spacesuit_Quality_03
@@ -198,13 +198,13 @@ fSunScale=1.0
 1CAE35    mod_Armor_Backpack_Quality_03
 1CAE36    mod_Armor_Backpack_Quality_04
 03AF7F    mod_Armor_Backpack_Quality_05
-    ```
+```
 
-    </p></details>
+</p></details>
 
-    <details><summary>Эта же команда может добавлять броне трейты, максимум 3 трейта, по одному из каждой группы.</summary><p>
+<details><summary>Эта же команда может добавлять броне трейты, максимум 3 трейта, по одному из каждой группы.</summary><p>
 
-    ```
+```
 Скафандры, Группа 1
 
 Combat Veteran    1336BE﻿    -15% damage from Human enemies.
@@ -264,13 +264,13 @@ Fastened    2EDE4E    +20 carry capacity.
 
 Armor-Plated      2EDE59    -10% incoming Physical, Energy, and EM damage.
 Assisted Carry    2EDE4F    Drain 75% less O2 when running while encumbered.
-    ```
+```
 
-    </p></details>
+</p></details>
 
-    <details><summary>С оружием всё работает точно так же, но тип должен быть WEAP.</summary><p>
+<details><summary>С оружием всё работает точно так же, но тип должен быть WEAP.</summary><p>
 
-    ```
+```
 Оружие, Группа 1
 
 Anti-Personnel       0FF442    +10% damage against humans.
@@ -311,9 +311,9 @@ Shattering        0F4557    Break through even the strongest armor.
 Skip Shot         31C0C4    Every fourth shot fires two projectiles at once.
 Tesla             31C0C6    Rounds will sometimes emit electricity where they land that damages and slows nearby targets.
 Titanium Build    0FFA3D    Premium build materials make this weapon light as a feather.
-    ```
+```
 
-    </p></details>
+</p></details>
 
 **Убивать бессмертных NPC** (не рекомендуется)
 
