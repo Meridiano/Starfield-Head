@@ -232,6 +232,34 @@ Fastened    2EDE4E    +20 carry capacity.
 
 Armor-Plated      2EDE59    -10% incoming Physical, Energy, and EM damage.
 Assisted Carry    2EDE4F    Drain 75% less O2 when running while encumbered.
+
+Оружие, Группа 1
+
+Anti-Personnel       0FF442    +10% damage against humans.
+Bashing              0FEA07    Deals double damage when gun bashing.
+Berserker            0F437E    Does more damage the less armor one has.
+Cornered             0F428E    Damage increases as health decreases.
+Disassembler         1625EB    +20% damage against robots. 
+Extended Magazine    0FFA3B    Doubles the base magazine capacity.
+Exterminator         15DD18    +30% damage against aliens.
+Furious              0EA117    Each consecutive hit deals more damage.
+Instigating          0F2013    Deals double damage to targets with full health.
+Oxygenated           0FAEAB    Hold-breath time when aiming using a scoped weapon is increased.
+Space-Adept          0F7321    +30% damage while in space, and -15% damage while on a planet.
+
+Оружие, Группа 2
+
+Corrosive      08AB47    Randomly deals corrosive damage and reduces the targets' armor over 6 seconds.
+Crippling      0F2E39    Deals +30% damage on the next attack after hitting a target's limbs.
+Handloading    0EA0BA    Volatile rounds that are designed to pack a bigger punch, but aren't as stable and can fail on occasion.
+Hitman         122F1C    +15% damage while aiming.
+Incendiary     07D728    Randomly deals incendiary damage.
+Lacerate       0FEA49    Randomly applies a bleed effect to the target.
+Med Theft      0FFA3C    Chance that humans drop extra Med Packs on death.
+Poison         319AEC    Randomly deals poison damage and slows the target.
+Radioactive    0EA13B    Randomly deals radioactive damage and demoralizes the target.
+Rapid          0FEA04    +25% increase in attack speed.
+Staggering     0E8D64    Small chance to stagger enemies.
 ```
 
 **Убивать бессмертных NPC** (не рекомендуется)
