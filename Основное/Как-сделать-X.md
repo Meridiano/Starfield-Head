@@ -158,48 +158,80 @@ fSunScale=1.0
 11E2BA    mod_Armor_Spacesuit_Quality_03
 11E2B9    mod_Armor_Spacesuit_Quality_04
 03AF7D    mod_Armor_Spacesuit_Quality_05
+
+11E2B5    mod_Armor_Helmet_Quality_01
+11E2B6    mod_Armor_Helmet_Quality_02
+11E2B7    mod_Armor_Helmet_Quality_03
+11E2B8    mod_Armor_Helmet_Quality_04
+03AF80    mod_Armor_Helmet_Quality_05
+
+1CAE05    mod_Armor_Backpack_Quality_01
+1CAE34    mod_Armor_Backpack_Quality_02
+1CAE35    mod_Armor_Backpack_Quality_03
+1CAE36    mod_Armor_Backpack_Quality_04
+03AF7F    mod_Armor_Backpack_Quality_05
 ```
 + Эта же команда может добавлять броне трейты, максимум 3 трейта, по одному из каждой группы.
 ```
-Группа #1
+Скафандры, Группа 1
 
-o2 boosted        0690B0﻿    +20% oxygen
 Combat Veteran    1336BE﻿    -15% damage from Human enemies.
 Beast Hunter      1336BD﻿    -15% damage from Alien enemies.
 Chameleon         1336C1﻿    Blend with the environment while sneaking and not moving.
 Ablative          13369C﻿    -15% incoming Energy damage.
-sturdy            133699﻿    -15% incoming melee dmg
-o2 filter         0690AE﻿    -25% oxygen consumption
+Sturdy            133699﻿    -15% incoming melee damage.
 Bolstering        1336C6﻿    Grants up to +100 Energy resistance and Physical resistance, the lower your health.
-technician        1336BC﻿    -15% dmg from robots
+Technician        1336BC﻿    -15% damage from Robot enemies.
 Anti-Ballistic    13369E﻿    -15% incoming Physical damage from ranged weapons.
 
-Группа #2
+Скафандры, Группа 2
 
-fastened           2EDE4E﻿    +20 carry capacity
-auto medic         0C9A43﻿    automatically use a med pack when hit and health is below 25%, 60s cd
-galvanized         0710F7﻿    +25 corrosive resistance
-incendiary         07D728﻿    randomly deal fire damage
-liquid cooled      0710F6﻿    +25 thermal resistance
-resource hauler    060293﻿    resources weigh 25% less
-analyzer           0690AF﻿    +10% dmg to scanned targets
-leadlined          0710F5﻿    +25 radiation resistance
-hacker             2C43DA﻿    +2 max auto attempts that can be banked while hacking
-weapon holsters    060295    weapons weigh 50% less
-acrobat            0710FD﻿    reduces fall dmg by 50%
-antiseptic         0710FA﻿    +25 airborne resistance
-staggering         0E8D64﻿    small chance to stagger enemies
+Auto-Medic         0C9A43﻿    Automatically use a Med Pack when hit and health is below 25%, once every 60 seconds.
+Galvanized         0710F7﻿    +25 Corrosive Resistance.
+Liquid Cooled      0710F6﻿    +25 Thermal Resistance.
+Resource Hauler    060293﻿    Resources weigh 25% less.
+Leadlined          0710F5﻿    +25 Radiation Resistance.
+Weapon Holsters    060295    Weapons weigh 50% less.
+Acrobat            0710FD﻿    -50% fall damage.
+Antiseptic         0710FA﻿    +25 Airborne Resistance.
 
-Группа #3
-sensor chip       2C43DB    ﻿+20% acc while moving
-sentinel          0BE540﻿    75% chance to take 50% less dmg while not moving
-headhunter        2C43DC﻿    +25% dmg on next attack after a headshot
-armor plated      2EDE59﻿    -10% dmg from physical,energy and em
-mechanized        0BE542﻿    +40 carry capacity
-assisted carry    2EDE4F﻿    reduces o2 consumption while encumbered by 75%
-incendiary        002983﻿    10% chance to ignite nearby attackers (работает вместе с incendiary из 2-ой группы)
-mirrored          059AE8﻿    4% chance to reflect attacks
-repulsing         06029d﻿    5% chance to disarm nearby attackers
+Скафандры, Группа 3
+
+Sentinel          0BE540﻿    75% chance to reduce damage by 50% while standing still.
+Reactive          06029F﻿    10% chance to stagger nearby attackers.
+Mechanized        0BE542﻿    +40 carry capacity.
+Incendiary        002983﻿    10% chance to ignite nearby attackers.
+Mirrored          059AE8﻿    4% chance to reflect attacks.
+Repulsing         06029d﻿    5% chance to disarm nearby attackers.
+Peacemaker        2D01A2    Rifles do 10% more damage.
+
+Шлемы, Группа 1
+
+O2 Boosted    0690B0    +20% oxygen capacity.
+O2 Filter     0690AE    -25% oxygen consumption.
+
+Шлемы, Группа 2
+
+Hacker      2C43DA    +2 max auto attempts that can be banked while hacking.
+Analyzer    0690AF    +10% damage to scanned targets.
+
+Шлемы, Группа 3
+
+Sensor Chip    2C43DB    +20% accuracy while firing on the move.
+Headhunter     2C43DC    Deals +25% damage on the next attack after hitting a target's head.
+
+Джетпаки, Группа 1
+
+---
+
+Джетпаки, Группа 2
+
+Fastened    2EDE4E    +20 carry capacity.
+
+Джетпаки, Группа 3
+
+Armor-Plated      2EDE59    -10% incoming Physical, Energy, and EM damage.
+Assisted Carry    2EDE4F    Drain 75% less O2 when running while encumbered.
 ```
 
 **Убивать бессмертных NPC** (не рекомендуется)
