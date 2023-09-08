@@ -148,10 +148,11 @@ fSunScale=1.0
 
 ## Прочее
 
-**Добавить трейты на броню**
+**Добавить трейты на экипировку**
 
-+ Выбросьте предмет на землю и выберите его в консоли (должен быть тип ARMO, ID FFXXXXXX).
-+ Используйте консольную команду AMod, чтобы изменить базовое качество брони.
++ Выбросьте предмет на землю и выберите его в консоли.
+<details><summary>Броня (скафандры, шлемы, джетпаки).</summary><p>
++ Для брони должен быть тип ARMO, ID FFXXXXXX. Используйте консольную команду AMod, чтобы изменить базовое качество брони.
 ```
 ﻿11E2BB    mod_Armor_Spacesuit_Quality_01
 11E2BC    mod_Armor_Spacesuit_Quality_02
@@ -232,7 +233,9 @@ Fastened    2EDE4E    +20 carry capacity.
 
 Armor-Plated      2EDE59    -10% incoming Physical, Energy, and EM damage.
 Assisted Carry    2EDE4F    Drain 75% less O2 when running while encumbered.
-
+```</p></details>
+<details><summary>С оружием всё работает точно так же, но тип должен быть WEAP.</summary><p>
+```
 Оружие, Группа 1
 
 Anti-Personnel       0FF442    +10% damage against humans.
@@ -260,7 +263,20 @@ Poison         319AEC    Randomly deals poison damage and slows the target.
 Radioactive    0EA13B    Randomly deals radioactive damage and demoralizes the target.
 Rapid          0FEA04    +25% increase in attack speed.
 Staggering     0E8D64    Small chance to stagger enemies.
-```
+
+Оружие, Группа 3
+
+Concussive        0FBD3C    Small chance to knock down targets.
+Demoralizing      0FC884    Small chance to demoralize a target.
+Elemental         31C0C5    Randomly deals Corrosive, Radiation, Poison, and Incendiary damage.
+Explosive         0FA8D6    Randomly switches to explosive rounds.
+Frenzy            0FC8A4    Small chance to frenzy a target.
+One Inch Punch    0F4CF0    Rounds fire in a shotgun-like spread.
+Shattering        0F4557    Break through even the strongest armor.
+Skip Shot         31C0C4    Every fourth shot fires two projectiles at once.
+Tesla             31C0C6    Rounds will sometimes emit electricity where they land that damages and slows nearby targets.
+Titanium Build    0FFA3D    Premium build materials make this weapon light as a feather.
+```</p></details>
 
 **Убивать бессмертных NPC** (не рекомендуется)
 
