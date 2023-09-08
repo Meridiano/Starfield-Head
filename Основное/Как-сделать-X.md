@@ -164,15 +164,15 @@ fSunScale=1.0
 Группа #1
 
 o2 boosted        0690B0﻿    +20% oxygen
-combat veteran    1336BE﻿    -15% dmg from humans
-beast hunter      1336BD﻿    -15% dmg from aliens
-chameleon         1336C1﻿    makes you invisible in sneak while not moving
-ablative          13369C﻿    -15% incoming energy damage
+Combat Veteran    1336BE﻿    -15% damage from Human enemies.
+Beast Hunter      1336BD﻿    -15% damage from Alien enemies.
+Chameleon         1336C1﻿    Blend with the environment while sneaking and not moving.
+Ablative          13369C﻿    -15% incoming Energy damage.
 sturdy            133699﻿    -15% incoming melee dmg
 o2 filter         0690AE﻿    -25% oxygen consumption
-bolstering        1336C6﻿    grants up to +100 energy and physical resistance, the lower your health
+Bolstering        1336C6﻿    Grants up to +100 Energy resistance and Physical resistance, the lower your health.
 technician        1336BC﻿    -15% dmg from robots
-anti-ballistic    13369E﻿    -15% incoming dmg from ranged weapons
+Anti-Ballistic    13369E﻿    -15% incoming Physical damage from ranged weapons.
 
 Группа #2
 
