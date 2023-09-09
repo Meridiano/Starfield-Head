@@ -117,6 +117,7 @@ fZKeyDelay=0.05
 
 + Чтобы отключить, используйте [Neutral LUTs - No Color Filters](https://www.nexusmods.com/starfield/mods/323).
 + Чтобы просто ослабить, используйте [Reduced LUTs - Cleaner Colors and Enhanced Contrast](https://www.nexusmods.com/starfield/mods/589).
++ Чтобы изменить/улучшить - [NaturaLUTs](https://www.nexusmods.com/starfield/mods/1119)
 
 **Более чёрный космос**
 
