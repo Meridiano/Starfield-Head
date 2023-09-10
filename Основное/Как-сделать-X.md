@@ -85,8 +85,8 @@ fDataMenuFadeInToGameTime=0.001
 + Правки файла "StarfieldCustom.ini".
 ```
 [Controls]
-fQCZKeyDelay=0.05
-fZKeyDelay=0.05
+fQCZKeyDelay=0.15
+fZKeyDelay=0.15
 ```
 
 **Джетпак через удержание клавиши**
