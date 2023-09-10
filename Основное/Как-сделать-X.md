@@ -41,10 +41,12 @@
 
 + Правки файла "StarfieldCustom.ini".
 ```
+[Display]
+fDefaultFOV=100.0
+
 [Camera]
 fFPWorldFOV=100.0
 fTPWorldFOV=100.0
-fDefaultFOV=100.0
 
 [FlightCamera]
 fFlightCameraFOV=100.0
