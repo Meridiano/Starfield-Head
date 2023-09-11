@@ -218,35 +218,35 @@ fSunScale=1.0
 ```
 Скафандры, Группа 1
 
-Combat Veteran         1336BE﻿    -15% damage from Human enemies.
-Beast Hunter           1336BD﻿    -15% damage from Alien enemies.
-Chameleon              1336C1﻿    Blend with the environment while sneaking and not moving.
-Ablative               13369C﻿    -15% incoming Energy damage.
-Sturdy                 133699﻿    -15% incoming melee damage.
-Bolstering             1336C6﻿    Grants up to +100 Energy resistance and Physical resistance, the lower your health.
-Technician             1336BC﻿    -15% damage from Robot enemies.
-Anti-Ballistic         13369E﻿    -15% incoming Physical damage from ranged weapons.
+Combat Veteran    1336BE﻿    -15% damage from Human enemies.
+Beast Hunter      1336BD﻿    -15% damage from Alien enemies.
+Chameleon         1336C1﻿    Blend with the environment while sneaking and not moving.
+Ablative          13369C﻿    -15% incoming Energy damage.
+Sturdy            133699﻿    -15% incoming melee damage.
+Bolstering        1336C6﻿    Grants up to +100 Energy resistance and Physical resistance, the lower your health.
+Technician        1336BC﻿    -15% damage from Robot enemies.
+Anti-Ballistic    13369E﻿    -15% incoming Physical damage from ranged weapons.
 
 Скафандры, Группа 2
 
-Auto-Medic             0C9A43﻿    Automatically use a Med Pack when hit and health is below 25%, once every 60 seconds.
-Galvanized             0710F7﻿    +25 Corrosive Resistance.
-Liquid Cooled          0710F6﻿    +25 Thermal Resistance.
-Resource Hauler        060293﻿    Resources weigh 25% less.
-Leadlined              0710F5﻿    +25 Radiation Resistance.
-Weapon Holsters        060295    Weapons weigh 50% less.
-Acrobat                0710FD﻿    -50% fall damage.
-Antiseptic             0710FA﻿    +25 Airborne Resistance.
+Auto-Medic         0C9A43﻿    Automatically use a Med Pack when hit and health is below 25%, once every 60 seconds.
+Galvanized         0710F7﻿    +25 Corrosive Resistance.
+Liquid Cooled      0710F6﻿    +25 Thermal Resistance.
+Resource Hauler    060293﻿    Resources weigh 25% less.
+Leadlined          0710F5﻿    +25 Radiation Resistance.
+Weapon Holsters    060295    Weapons weigh 50% less.
+Acrobat            0710FD﻿    -50% fall damage.
+Antiseptic         0710FA﻿    +25 Airborne Resistance.
 
 Скафандры, Группа 3
 
-Sentinel           0BE540﻿    75% chance to reduce damage by 50% while standing still.
-Reactive           06029F﻿    10% chance to stagger nearby attackers.
-Mechanized         0BE542﻿    +40 carry capacity.
-Incendiary         002983﻿    10% chance to ignite nearby attackers.
-Mirrored           059AE8﻿    4% chance to reflect attacks.
-Repulsing          06029d﻿    5% chance to disarm nearby attackers.
-Peacemaker         2D01A2    Rifles do 10% more damage.
+Sentinel      0BE540﻿    75% chance to reduce damage by 50% while standing still.
+Reactive      06029F﻿    10% chance to stagger nearby attackers.
+Mechanized    0BE542﻿    +40 carry capacity.
+Incendiary    002983﻿    10% chance to ignite nearby attackers.
+Mirrored      059AE8﻿    4% chance to reflect attacks.
+Repulsing     06029d﻿    5% chance to disarm nearby attackers.
+Peacemaker    2D01A2    Rifles do 10% more damage.
 
 Шлемы, Группа 1
 
