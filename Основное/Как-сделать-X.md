@@ -144,6 +144,10 @@ fSunScale=1.0
 
 + Используйте [Effect Textures Enhanced](https://www.nexusmods.com/starfield/mods/340).
 
+**Менее уродливая вода**
+
++ Используйте [CRT - Water](https://www.nexusmods.com/starfield/mods/1508).
+
 **Заменить FSR2 на DLSS-2**
 
 + Установите [SFSE ASI Loader](https://www.nexusmods.com/starfield/mods/857) и [Starfield FSR2 Bridge](https://www.nexusmods.com/starfield/mods/196) как обычные моды в MO2.
@@ -167,6 +171,10 @@ fSunScale=1.0
     ![](Как-сделать-X/DLSS-3-FG-Mod.png)
 
     </p></details>
+
+**Убрать мыло при включении FSR2/DLSS**
+
++ Используйте [Upscaling Fix](https://www.nexusmods.com/starfield/mods/1743).
 
 **Заменить изображение при запуске**
 
