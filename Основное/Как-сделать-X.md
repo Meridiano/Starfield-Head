@@ -218,64 +218,66 @@ fSunScale=1.0
 ```
 Скафандры, Группа 1
 
-Combat Veteran    1336BE﻿    -15% damage from Human enemies.
-Beast Hunter      1336BD﻿    -15% damage from Alien enemies.
 Chameleon         1336C1﻿    Blend with the environment while sneaking and not moving.
-Ablative          13369C﻿    -15% incoming Energy damage.
-Sturdy            133699﻿    -15% incoming melee damage.
 Bolstering        1336C6﻿    Grants up to +100 Energy resistance and Physical resistance, the lower your health.
-Technician        1336BC﻿    -15% damage from Robot enemies.
 Anti-Ballistic    13369E﻿    -15% incoming Physical damage from ranged weapons.
+Beast Hunter      1336BD﻿    -15% damage from Alien enemies.
+Ablative          13369C﻿    -15% incoming Energy damage.
+Combat Veteran    1336BE﻿    -15% damage from Human enemies.
+Sturdy            133699﻿    -15% incoming melee damage.
+Technician        1336BC﻿    -15% damage from Robot enemies.
 
 Скафандры, Группа 2
 
 Auto-Medic         0C9A43﻿    Automatically use a Med Pack when hit and health is below 25%, once every 60 seconds.
-Galvanized         0710F7﻿    +25 Corrosive Resistance.
-Liquid Cooled      0710F6﻿    +25 Thermal Resistance.
 Resource Hauler    060293﻿    Resources weigh 25% less.
-Leadlined          0710F5﻿    +25 Radiation Resistance.
 Weapon Holsters    060295    Weapons weigh 50% less.
-Acrobat            0710FD﻿    -50% fall damage.
 Antiseptic         0710FA﻿    +25 Airborne Resistance.
+Galvanized         0710F7﻿    +25 Corrosive Resistance.
+Leadlined          0710F5﻿    +25 Radiation Resistance.
+Liquid Cooled      0710F6﻿    +25 Thermal Resistance.
+Acrobat            0710FD﻿    -50% fall damage.
 
 Скафандры, Группа 3
 
-Sentinel      0BE540﻿    75% chance to reduce damage by 50% while standing still.
-Reactive      06029F﻿    10% chance to stagger nearby attackers.
 Mechanized    0BE542﻿    +40 carry capacity.
-Incendiary    002983﻿    10% chance to ignite nearby attackers.
-Mirrored      059AE8﻿    4% chance to reflect attacks.
 Repulsing     06029d﻿    5% chance to disarm nearby attackers.
+Incendiary    002983﻿    10% chance to ignite nearby attackers.
+Sentinel      0BE540﻿    75% chance to reduce damage by 50% while standing still.
 Peacemaker    2D01A2    Rifles do 10% more damage.
+Mirrored      059AE8﻿    4% chance to reflect attacks.
+Reactive      06029F﻿    10% chance to stagger nearby attackers.
 
 Шлемы, Группа 1
 
+> Доступны трейты скафандров + 2 уникальных
 O2 Boosted    0690B0    +20% oxygen capacity.
 O2 Filter     0690AE    -25% oxygen consumption.
 
 Шлемы, Группа 2
 
+> Доступны трейты скафандров + 2 уникальных
 Hacker      2C43DA    +2 max auto attempts that can be banked while hacking.
 Analyzer    0690AF    +10% damage to scanned targets.
 
 Шлемы, Группа 3
 
+> Доступны трейты скафандров + 2 уникальных
 Sensor Chip    2C43DB    +20% accuracy while firing on the move.
 Headhunter     2C43DC    Deals +25% damage on the next attack after hitting a target's head.
 
 Джетпаки, Группа 1
 
-Airborne Resistance     1C1DF5    Increased Airborne Resistance.
-Corrosive Resistance    1C1DFD    Increased Corrosive Resistance.
-Radiation Resistance    1C1E01    Increased Radiation Resistance.
-Thermal Resistance      1C1E05    Increased Thermal Resistance.
+> Доступны трейты скафандров
 
 Джетпаки, Группа 2
 
+> Доступны трейты скафандров + 1 уникальный
 Fastened    2EDE4E    +20 carry capacity.
 
 Джетпаки, Группа 3
 
+> Доступны трейты скафандров + 2 уникальных
 Armor-Plated      2EDE59    -10% incoming Physical, Energy, and EM damage.
 Assisted Carry    2EDE4F    Drain 75% less O2 when running while encumbered.
 ```
