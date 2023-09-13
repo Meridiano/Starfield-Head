@@ -232,7 +232,7 @@ fSunScale=1.0
 1C1E05    mod_Armor_Backpack_ENV_Thermal04
 1C1DF6    mod_Armor_Backpack_ENV_Balanced01
 
-2C38BF    mod_Armor_Spacesuit_ENV_Starborn01
+2C38BF    mod_Armor_Spacesuit_ENV_Starborn01    Уникальный бонус, который стакается с любым из бонусов выше.
 ```
 
 </p></details>
