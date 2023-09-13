@@ -189,7 +189,7 @@ fSunScale=1.0
 
 <details><summary>Для брони должен быть тип ARMO, ID FFXXXXXX. Используйте консольную команду AMod.</summary><p>
 
-Базовое качество брони влияет на основные защитные характеристики.
+Базовое качество брони влияет на боевые защитные характеристики.
 
 ```
 ﻿11E2BB    mod_Armor_Spacesuit_Quality_01
@@ -209,6 +209,30 @@ fSunScale=1.0
 1CAE35    mod_Armor_Backpack_Quality_03
 1CAE36    mod_Armor_Backpack_Quality_04
 03AF7F    mod_Armor_Backpack_Quality_05
+```
+
+Также у брони есть планетарные защитные характеристики.
+
+```
+0E9A8D    mod_Armor_Spacesuit_ENV_Airborne04
+112173    mod_Armor_Spacesuit_ENV_Corrosive04
+113578    mod_Armor_Spacesuit_ENV_Radiation04
+11B756    mod_Armor_Spacesuit_ENV_Thermal04
+1AEB51    mod_Armor_Spacesuit_ENV_Balanced01
+
+0DDCE7    mod_Armor_Helmet_ENV_Airborne04
+112154    mod_Armor_Helmet_ENV_Corrosive04
+1124D1    mod_Armor_Helmet_ENV_Radiation04
+11B747    mod_Armor_Helmet_ENV_Thermal04
+1AEB57    mod_Armor_Helmet_ENV_Balanced01
+
+1C1DF5    mod_Armor_Backpack_ENV_Airborne04
+1C1DFD    mod_Armor_Backpack_ENV_Corrosive04
+1C1E01    mod_Armor_Backpack_ENV_Radiation04
+1C1E05    mod_Armor_Backpack_ENV_Thermal04
+1C1DF6    mod_Armor_Backpack_ENV_Balanced01
+
+2C38BF    mod_Armor_Spacesuit_ENV_Starborn01
 ```
 
 </p></details>
