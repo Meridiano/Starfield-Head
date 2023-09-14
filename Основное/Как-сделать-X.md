@@ -108,10 +108,9 @@ fZKeyDelay=0.15
 
 **Быстрые переходы у верстаков и т.д.**
 
-+ [Faster Workbenches](https://www.nexusmods.com/starfield/mods/1190).
-+ [Faster Pilot Seats](https://www.nexusmods.com/starfield/mods/1237).
-+ [Faster switch from combat to relaxed stance](https://www.nexusmods.com/starfield/mods/1148).
 + [Ship Skip - Instant Station Docking and More](https://www.nexusmods.com/starfield/mods/1056).
++ [Ultra-Anim - Faster Interaction Animations](https://www.nexusmods.com/starfield/mods/1387).
++ [Faster switch from combat to relaxed stance](https://www.nexusmods.com/starfield/mods/1148).
 
 ## Графика
 
