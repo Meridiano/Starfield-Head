@@ -147,33 +147,23 @@ fSunScale=1.0
 
 + Используйте [CRT - Water](https://www.nexusmods.com/starfield/mods/1508).
 
-**Заменить FSR2 на DLSS-2**
-
-+ Установите [SFSE ASI Loader](https://www.nexusmods.com/starfield/mods/857) и [Starfield FSR2 Bridge](https://www.nexusmods.com/starfield/mods/196) как обычные моды в MO2.
-+ Удалите файлы "winmm.dll" и "winmm.ini" из мода Starfield FSR2 Bridge.
-+ Скопируйте файл "nvngx_dlss.dll" в папку мода Starfield FSR2 Bridge.
-
-    <details><summary>Структура мода после всех действий должна выглядеть так.</summary><p>
-
-    ![](Как-сделать-X/DLSS-2-Mod.png)
-
-    </p></details>
-
-**Заменить FSR2 на DLSS-3-FG**
-
-+ Установите [SFSE ASI Loader](https://www.nexusmods.com/starfield/mods/857) и [Starfield Frame Generation](https://www.nexusmods.com/starfield/mods/761) как обычные моды в MO2.
-+ Удалите файлы "winmm.dll" и "winmm.ini" из мода Starfield Frame Generation.
-+ Скопируйте файлы "nvngx_dlss.dll" и "nvngx_dlssg.dll" в папку "streamline" мода Starfield Frame Generation.
-
-    <details><summary>Структура мода после всех действий должна выглядеть так.</summary><p>
-
-    ![](Как-сделать-X/DLSS-3-FG-Mod.png)
-
-    </p></details>
-
-**Убрать мыло при включении FSR2/DLSS**
+**Убрать мыло при включении FSR2**
 
 + Используйте [Upscaling Fix](https://www.nexusmods.com/starfield/mods/1743).
+
+**Заменить FSR2 на DLSS**
+
++ Установите [Streamline Native](https://www.nexusmods.com/starfield/mods/2751) как обычный мод в MO2.
++ Скачайте файлы "[nvngx_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/)" и "[nvngx_dlssg.dll](https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/)".
++ Скопируйте их в папку "SFSE\Plugins\nv-streamline" мода Streamline Native.
+
+    <details><summary>Структура мода после всех действий должна выглядеть так.</summary><p>
+
+    ![](Как-сделать-X/Streamline-Native.png)
+
+    </p></details>
+
++ При этом вы можете удалить мод Upscaling Fix (см. выше), потому что его MipMap-твик уже включен в Streamline Native.
 
 **Заменить внешность NPC**
 
