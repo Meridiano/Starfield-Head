@@ -151,7 +151,7 @@ fSunScale=1.0
 
 + Используйте [Upscaling Fix](https://www.nexusmods.com/starfield/mods/1743).
 
-**Заменить FSR2 на DLSS**
+**Заменить FSR2 на DLSS и Nvidia Reflex**
 
 + Установите [Streamline Native](https://www.nexusmods.com/starfield/mods/2751) как обычный мод в MO2.
 + Скачайте файлы "[nvngx_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/)" и "[nvngx_dlssg.dll](https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/)".
