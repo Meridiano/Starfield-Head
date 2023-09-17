@@ -91,6 +91,11 @@ fQCZKeyDelay=0.15
 fZKeyDelay=0.15
 ```
 
+**Увеличить количество авто-сохранений**
+
++ Правка файла "StarfieldCustom.ini".
++ В секции [SaveGame] добавьте параметр "iAutoSaveCount=20" без кавычек.
+
 **Джетпак через удержание клавиши**
 
 + Правка файла "StarfieldCustom.ini".
