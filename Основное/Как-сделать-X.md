@@ -114,10 +114,14 @@ fZKeyDelay=0.15
 + Добавьте в новый файл секцию [Hotkeys] и настройки клавиш + команд.
 
 ```
+[Macros]
+MacrosA=Player.RestoreAV Health 5000.0
+MacrosB=Player.Kill
+
 [Hotkeys]
-F1=bat "My-Bat-One"
-F2=bat "My-Bat-Two"
-F3=ShowMenu SleepWaitMenu
+F1=ShowMenu SleepWaitMenu
+F2=bat "My-Bat-File"
+F3=MacrosA;MacrosB
 F4=qqq
 ```
 
