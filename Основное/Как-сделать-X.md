@@ -106,6 +106,21 @@ fZKeyDelay=0.15
 + Используйте [Instant Scan](https://www.nexusmods.com/starfield/mods/759).
 + Мод представляет из себя bat-файл, который вы должны применять при загрузке. Прочтите инструкцию по установке.
 
+**Горячие клавиши для консольных команд**
+
++ Правка файла "StarfieldCustom.ini".
++ В секции [Menu] добавьте параметр "bUseConsoleHotkeys=1" без кавычек.
++ Создайте файл "StarfieldConsole.ini" по адресу "Документы/My Games/Starfield/StarfieldConsole.ini".
++ Добавьте в новый файл секцию [Hotkeys] и настройки клавиш + команд.
+
+```
+[Hotkeys]
+F1=bat "My-Bat-One"
+F2=bat "My-Bat-Two"
+F3=ShowMenu SleepWaitMenu
+F4=qqq
+```
+
 **Настройка урона и кол-ва здоровья врагов**
 
 + Содержится в [Gameplay Tweaks and Fixes](https://www.nexusmods.com/starfield/mods/241).
