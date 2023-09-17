@@ -111,7 +111,7 @@ fZKeyDelay=0.15
 + Правка файла "StarfieldCustom.ini".
 + В секции [Menu] добавьте параметр "bUseConsoleHotkeys=1" без кавычек.
 + Создайте файл "StarfieldConsole.ini" по адресу "Документы/My Games/Starfield/StarfieldConsole.ini".
-+ Добавьте в новый файл секцию [Hotkeys] и настройки клавиш + команд.
++ Добавьте в новый файл секции [Macros] и [Hotkeys], а также настройки клавиш и команд.
 
 ```
 [Macros]
