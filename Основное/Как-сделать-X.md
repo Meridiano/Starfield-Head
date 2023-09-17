@@ -115,13 +115,13 @@ fZKeyDelay=0.15
 
 ```
 [Macros]
-MacrosA=Player.RestoreAV Health 5000.0
-MacrosB=Player.Kill
+heal=Player.RestoreAV Health 5000.0
+kill=Player.Kill
 
 [Hotkeys]
 F1=ShowMenu SleepWaitMenu
 F2=bat "My-Bat-File"
-F3=MacrosA;MacrosB
+F3=heal;kill
 F4=qqq
 ```
 
