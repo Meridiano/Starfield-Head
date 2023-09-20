@@ -13,7 +13,7 @@
 ## Общая папка [mega:share](https://link.meridiano-web.com/mega:share) / Starfield
 + *Patreon-Related*
 + *Character-Creation.pdf* - превью трейтов, предысторий и навыков игрока.
-+ *No Blacks (07.09.2023).7z* - мод для расистов.
++ *No Blacks (17.09.2023).7z* - мод для расистов.
 + *Starfield-Russian-BageDog.7z* - русификатор от BageDog со старыми шрифтами от Segnetofaza.
 + *Starfield-Russian-Segnetofaza.zip* - русификатор от [Segnetofaza](https://boosty.to/segnetofaza).
-+ *Vladimir-RussianGuy-2023.09.10.7z* - мод и пресет Владимира для ГГ от [JJ00RADIO](https://www.nexusmods.com/starfield/users/67894191).
++ *Vladimir-RussianGuy-2023.09.12.7z* - мод и пресет Владимира для ГГ от [JJ00RADIO](https://www.nexusmods.com/starfield/users/67894191).
