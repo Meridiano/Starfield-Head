@@ -15,26 +15,6 @@
 + Правка файла "StarfieldCustom.ini".
 + В секции [General] добавьте параметр "bEnableMessageOfTheDay=0" без кавычек.
 
-**Более приятный интерфейс**
-
-+ В качестве основы используйте Smooth UI, [60 FPS](https://www.nexusmods.com/starfield/mods/350) или [120 FPS](https://www.nexusmods.com/starfield/mods/497).
-+ Используйте [Undelayed Menus](https://www.nexusmods.com/starfield/mods/404) для быстрых переходов.
-+ Для компактного интерфейса - [моды Stentorious](https://www.nexusmods.com/starfield/users/13373850?tab=user+files) из серии Compact UI.
-+ Для подробного интерфейса - [StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) и [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444).
-+ Учитывайте порядок перезаписи модов и патчей в MO2, файлы одних перезаписывают другие.
-
-**Убрать фон субтитров**
-
-+ Используйте [Spicy Clean Subtitles](https://www.nexusmods.com/starfield/mods/539) (с патчами по необходимости).
-
-**Выбор опций диалога по цифрам**
-
-+ Используйте [Better Dialogue Controls](https://www.nexusmods.com/starfield/mods/1223).
-
-**Убрать "ультразвук" из меню**
-
-+ Используйте [Starfield High Pitch SFX Tinnitus Fix](https://www.nexusmods.com/starfield/mods/787).
-
 ## Функционал
 
 **Настроить FOV камеры**
@@ -101,11 +81,6 @@ fZKeyDelay=0.15
 + Правка файла "StarfieldCustom.ini".
 + В секции [Boostpack] добавьте параметр "bUsePressAndHoldControls=1" без кавычек.
 
-**Уменьшение времени сканирования до 1 сек.**
-
-+ Используйте [Instant Scan](https://www.nexusmods.com/starfield/mods/759).
-+ Мод представляет из себя bat-файл, который вы должны применять при загрузке. Прочтите инструкцию по установке.
-
 **Горячие клавиши для консольных команд**
 
 + Правка файла "StarfieldCustom.ini".
@@ -125,24 +100,7 @@ F3=heal;kill
 F4=qqq
 ```
 
-**Настройка урона и кол-ва здоровья врагов**
-
-+ Содержится в [Gameplay Tweaks and Fixes](https://www.nexusmods.com/starfield/mods/241).
-+ Мод представляет из себя bat-файл, который вы должны применять при загрузке. Прочтите инструкцию по установке.
-
-**Быстрые переходы у верстаков и т.д.**
-
-+ [Ship Skip - Instant Station Docking and More](https://www.nexusmods.com/starfield/mods/1056).
-+ [Ultra-Anim - Faster Interaction Animations](https://www.nexusmods.com/starfield/mods/1387).
-+ [Faster switch from combat to relaxed stance](https://www.nexusmods.com/starfield/mods/1148).
-
 ## Графика
-
-**Изменить цветофильтр (по возможности)**
-
-+ Чтобы отключить, используйте [Neutral LUTs - No Color Filters](https://www.nexusmods.com/starfield/mods/323).
-+ Чтобы просто ослабить, используйте [Reduced LUTs - Cleaner Colors and Enhanced Contrast](https://www.nexusmods.com/starfield/mods/589).
-+ Чтобы изменить/улучшить - [NaturaLUTs](https://www.nexusmods.com/starfield/mods/1119)
 
 **Более чёрный космос**
 
@@ -162,18 +120,6 @@ fSunScale=1.0
 
 + Правка файла "StarfieldCustom.ini".
 + В секции [Display] добавьте параметр "fGamma=2.6" без кавычек.
-
-**Качественные текстуры эффектов**
-
-+ Используйте [Effect Textures Enhanced](https://www.nexusmods.com/starfield/mods/340).
-
-**Менее уродливая вода**
-
-+ Используйте [CRT - Water](https://www.nexusmods.com/starfield/mods/1508).
-
-**Убрать мыло при включении FSR2**
-
-+ Используйте [Upscaling Fix](https://www.nexusmods.com/starfield/mods/1743).
 
 **Заменить FSR2 на DLSS и Nvidia Reflex**
 
@@ -202,16 +148,7 @@ fSunScale=1.0
 7. Выберите в консоли ГГ (должен быть тип "NPC_", ID 00000014) и используйте консольную команду "capp ID", где ID - это ID "мусорного" NPC из пункта 2.
 8. Выберите в консоли "мусорного" NPC и используйте команды "Disable" и "MarkForDelete", чтобы стереть его.
 
-**Заменить изображение при запуске**
-
-+ По пути "Config/Images" в корне игры находится файл "SplashScreen1920x1080.png".
-+ Можете заменить его на любое изображение, даже с прозрачностью.
-
 ## Прочее
-
-**Снизить нагрузку на диск**
-
-+ Используйте [Disk Cache Enabler](https://www.nexusmods.com/starfield/mods/2245).
 
 **Добавить трейты на экипировку**
 
@@ -402,11 +339,6 @@ Titanium Build    0FFA3D    Premium build materials make this weapon light as a 
 + Правка файла "StarfieldCustom.ini".
 + В секции [General] добавьте параметр "bBorderRegionsEnabled=0" без кавычек.
 + Внимание! При заходе слишком далеко игра становится нестабильной и крашится.
-
-**Включить достижения Steam обратно**
-
-+ Используйте [Baka Achievement Enabler](https://www.nexusmods.com/starfield/mods/658), установите его как обычный мод в MO2.
-+ Требуется SFSE, инструкция по установке есть в [Установке модов](../Моддинг/Установка-модов.md).
 
 ------
 
