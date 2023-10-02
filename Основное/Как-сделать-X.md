@@ -133,7 +133,7 @@ fSunScale=1.0
 
     </p></details>
 
-+ При этом вы можете удалить мод Upscaling Fix (см. выше), потому что его MipMap-твик уже включен в Streamline Native.
++ При этом не забудьте поставить мод [Upscaling Fix 2](https://www.nexusmods.com/starfield/mods/3930), который убирает мерцание ткани при любом апскейле.
 
 **Заменить внешность NPC**
 
