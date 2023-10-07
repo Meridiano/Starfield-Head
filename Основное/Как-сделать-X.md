@@ -33,8 +33,9 @@ fFlightCameraFOV=100.0
 
 [Dialogue]
 ; установка FOV в диалогах
-fDialogueCameraCollisionRadius=2.0
-fDialogueCameraFailsafeFPFOV=100.0
+fDialogueCameraCollisionMinPercentage=3.5
+fDialogueCameraCollisionRadius=3.5
+fDialogueCameraFailsafeFPFOV=75.0
 ```
 
 **Пропустить интро и прочие мелочи**
