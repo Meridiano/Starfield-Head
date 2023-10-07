@@ -62,6 +62,21 @@ fFadeToBlackFadeSeconds=0.001
 fDataMenuFadeInToGameTime=0.001
 ```
 
+**Вменяемое прилипание в строительстве**
+
++ Правки файла "StarfieldCustom.ini".
+```
+[Workshop]
+fWorkshopItemConnectPointQueryRadius=0.35
+fWorkshopItemWouldBeSnappedDistance=0.30
+fWorkshopBreakSnapRadiusMult=0.5
+fOutpostSnapPreviewHoldSnappedTime=-50.0
+fOutpostSnapPreviewWaitForPreviewTime=-50.0
+fOutpostSnapWaitForPostSnapCycleTime=-50.0
+; перекрытие объектов
+fClosestPointToleranceLargeItems=-100.0
+```
+
 **Быстрое перетаскивание предметов**
 
 + Правки файла "StarfieldCustom.ini".
