@@ -19,23 +19,27 @@
 
 **Настроить FOV камеры**
 
++ Правки файла "StarfieldPrefs.ini".
+```
+[Camera]
+fFPGeometryFOV=90.0
+fFPWorldFOV=90.0
+fTPWorldFOV=90.0
+```
 + Правки файла "StarfieldCustom.ini".
 ```
 [Display]
-fDefaultFOV=100.0
-
-[Camera]
-fFPWorldFOV=100.0
-fTPWorldFOV=100.0
+fDefaultFOV=90.0
 
 [FlightCamera]
-fFlightCameraFOV=100.0
+fFlightCameraFOV=90.0
 
 [Dialogue]
 ; установка FOV в диалогах
+; работает только в режиме 1-на-1
 fDialogueCameraCollisionMinPercentage=3.5
 fDialogueCameraCollisionRadius=3.5
-fDialogueCameraFailsafeFPFOV=75.0
+fDialogueCameraFailsafeFPFOV=90.0
 ```
 
 **Пропустить интро и прочие мелочи**
