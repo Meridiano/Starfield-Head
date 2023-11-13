@@ -179,7 +179,7 @@ fSunScale=1.0
 Базовое качество брони влияет на боевые защитные характеристики.
 
 ```
-﻿11E2BB    mod_Armor_Spacesuit_Quality_01
+11E2BB    mod_Armor_Spacesuit_Quality_01
 11E2BC    mod_Armor_Spacesuit_Quality_02
 11E2BA    mod_Armor_Spacesuit_Quality_03
 11E2B9    mod_Armor_Spacesuit_Quality_04
@@ -229,35 +229,35 @@ fSunScale=1.0
 ```
 Скафандры, Группа 1
 
-Chameleon         1336C1﻿    Blend with the environment while sneaking and not moving.
-Bolstering        1336C6﻿    Grants up to +100 Energy resistance and Physical resistance, the lower your health.
-Anti-Ballistic    13369E﻿    -15% incoming Physical damage from ranged weapons.
-Beast Hunter      1336BD﻿    -15% damage from Alien enemies.
-Ablative          13369C﻿    -15% incoming Energy damage.
-Combat Veteran    1336BE﻿    -15% damage from Human enemies.
-Sturdy            133699﻿    -15% incoming melee damage.
-Technician        1336BC﻿    -15% damage from Robot enemies.
+Chameleon         1336C1    Blend with the environment while sneaking and not moving.
+Bolstering        1336C6    Grants up to +100 Energy resistance and Physical resistance, the lower your health.
+Anti-Ballistic    13369E    -15% incoming Physical damage from ranged weapons.
+Beast Hunter      1336BD    -15% damage from Alien enemies.
+Ablative          13369C    -15% incoming Energy damage.
+Combat Veteran    1336BE    -15% damage from Human enemies.
+Sturdy            133699    -15% incoming melee damage.
+Technician        1336BC    -15% damage from Robot enemies.
 
 Скафандры, Группа 2
 
-Auto-Medic         0C9A43﻿    Automatically use a Med Pack when hit and health is below 25%, once every 60 seconds.
-Resource Hauler    060293﻿    Resources weigh 25% less.
+Auto-Medic         0C9A43    Automatically use a Med Pack when hit and health is below 25%, once every 60 seconds.
+Resource Hauler    060293    Resources weigh 25% less.
 Weapon Holsters    060295    Weapons weigh 50% less.
-Antiseptic         0710FA﻿    +25 Airborne Resistance.
-Galvanized         0710F7﻿    +25 Corrosive Resistance.
-Leadlined          0710F5﻿    +25 Radiation Resistance.
-Liquid Cooled      0710F6﻿    +25 Thermal Resistance.
-Acrobat            0710FD﻿    -50% fall damage.
+Antiseptic         0710FA    +25 Airborne Resistance.
+Galvanized         0710F7    +25 Corrosive Resistance.
+Leadlined          0710F5    +25 Radiation Resistance.
+Liquid Cooled      0710F6    +25 Thermal Resistance.
+Acrobat            0710FD    -50% fall damage.
 
 Скафандры, Группа 3
 
-Mechanized    0BE542﻿    +40 carry capacity.
-Repulsing     06029d﻿    5% chance to disarm nearby attackers.
-Incendiary    002983﻿    10% chance to ignite nearby attackers.
-Sentinel      0BE540﻿    75% chance to reduce damage by 50% while standing still.
+Mechanized    0BE542    +40 carry capacity.
+Repulsing     06029d    5% chance to disarm nearby attackers.
+Incendiary    002983    10% chance to ignite nearby attackers.
+Sentinel      0BE540    75% chance to reduce damage by 50% while standing still.
 Peacemaker    2D01A2    Rifles do 10% more damage.
-Mirrored      059AE8﻿    4% chance to reflect attacks.
-Reactive      06029F﻿    10% chance to stagger nearby attackers.
+Mirrored      059AE8    4% chance to reflect attacks.
+Reactive      06029F    10% chance to stagger nearby attackers.
 
 Шлемы, Группа 1
 
