@@ -19,21 +19,9 @@
 
 **Настроить FOV камеры**
 
-+ Правки файла "StarfieldPrefs.ini".
-```
-[Camera]
-fFPGeometryFOV=90.0
-fFPWorldFOV=90.0
-fTPWorldFOV=90.0
-```
++ Settings > Accessibility > First Person FOV / Third Person FOV.
 + Правки файла "StarfieldCustom.ini".
 ```
-[Display]
-fDefaultFOV=90.0
-
-[FlightCamera]
-fFlightCameraFOV=90.0
-
 [Dialogue]
 ; установка FOV в диалогах
 ; работает только в режиме 1-на-1
@@ -115,9 +103,9 @@ PKill=Player.Kill
 
 [Hotkeys]
 F1=ShowMenu SleepWaitMenu
-F2=bat "My-Bat-File"
-F3=PHeal;PKill
-F4=qqq
+Ctrl-F2=bat "My-Bat-File"
+Alt-F3=PHeal;PKill
+Shift-F4=qqq
 ```
 
 ## Графика
