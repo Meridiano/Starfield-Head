@@ -131,16 +131,7 @@ fSunScale=1.0
 
 **Заменить FSR2 на DLSS и Nvidia Reflex**
 
-+ Установите [Streamline Native](https://www.nexusmods.com/starfield/mods/2751) как обычный мод в MO2.
-+ Скачайте файлы "[nvngx_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/)" и "[nvngx_dlssg.dll](https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/)".
-+ Скопируйте их в папку "SFSE\Plugins\nv-streamline" мода Streamline Native.
-
-    <details><summary>Структура мода после всех действий должна выглядеть так.</summary><p>
-
-    ![](Как-сделать-X/Streamline-Native.png)
-
-    </p></details>
-
++ Установите обновление игры 1.8.86, зайдите в Settings > Display, настройте параметры DLSS и Nvidia Reflex.
 + При этом не забудьте поставить мод [Upscaling Fix 2](https://www.nexusmods.com/starfield/mods/3930), который убирает мерцание ткани при любом апскейле.
 
 **Заменить внешность NPC**
