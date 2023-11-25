@@ -20,15 +20,7 @@
 **Настроить FOV камеры**
 
 + Settings > Accessibility > First Person FOV / Third Person FOV.
-+ Правки файла "StarfieldCustom.ini".
-```
-[Dialogue]
-; установка FOV в диалогах
-; работает только в режиме 1-на-1
-fDialogueCameraCollisionMinPercentage=3.5
-fDialogueCameraCollisionRadius=3.5
-fDialogueCameraFailsafeFPFOV=90.0
-```
++ Отключение FOV в диалогах: [Disable Dialogue Camera](https://www.nexusmods.com/starfield/mods/7157).
 
 **Пропустить интро и прочие мелочи**
 
