@@ -331,6 +331,12 @@ Titanium Build    0FFA3D    Premium build materials make this weapon light as a 
 + В секции [General] добавьте параметр "bBorderRegionsEnabled=0" без кавычек.
 + Внимание! При заходе слишком далеко игра становится нестабильной и крашится.
 
+**Плавать под водой**
+
++ Правка файла "StarfieldCustom.ini".
++ В секции [Water] добавьте параметр "bUseWater=1" без кавычек.
++ Выглядит так себе, вырезано не просто так, механика явно не доведена до ума.
+
 ------
 
 |[*Назад к оглавлению*](https://github.com/Meridiano/Starfield-Head)|
