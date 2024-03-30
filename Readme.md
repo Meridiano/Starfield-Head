@@ -19,4 +19,5 @@
     + *Vladimir-Russian-Guy (12.09.2023)* - мод и пресет Владимира для ГГ от [JJ00RADIO](https://www.nexusmods.com/starfield/users/67894191).
 + *Character-Creation.pdf* - превью трейтов, предысторий и навыков игрока.
 + *Patreon-Related.txt* - законность не гарантируется.
++ *Starfield-EN-RU-DoubleText.zip* - субтитры с двойным текстом.
 + *Starfield-Russian-Segnetofaza.zip* - русификатор от [Segnetofaza](https://boosty.to/segnetofaza).
