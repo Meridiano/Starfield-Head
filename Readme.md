@@ -20,4 +20,3 @@
 + *Character-Creation.pdf* - превью трейтов, предысторий и навыков игрока.
 + *Patreon-Related.txt* - законность не гарантируется.
 + *Starfield-EN-RU-DoubleText.zip* - субтитры с двойным текстом.
-+ *Starfield-Russian-Segnetofaza.zip* - русификатор от [Segnetofaza](https://boosty.to/segnetofaza).
