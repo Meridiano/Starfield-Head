@@ -25,7 +25,7 @@
 **Настроить FOV камеры**
 
 + Settings > Accessibility > First Person FOV / Third Person FOV / Ship Third Person FOV.
-+ Отключение FOV в диалогах: [Disable Dialogue Camera](https://www.nexusmods.com/starfield/mods/7157).
++ Отключение FOV в диалогах: Settings > Accessibility > Dialogue Camera = OFF.
 
 **Пропустить интро и прочие мелочи**
 
