@@ -109,16 +109,15 @@ Shift-F4=qqq
 
 **Более чёрный космос**
 
++ Текстура без засветов - [Enhanced Milky Way](https://www.nexusmods.com/starfield/mods/7846).
 + Правки файла "StarfieldCustom.ini".
 ```
 [Display]
 fSpaceGlowBackgroundScale=0.0
-fStarIntensity=2500.0
-fStarSystemFarViewDistance=10000000000.0
-fStarfieldBackgroundScale=35.0
-fStarfieldStarBrightnessScale=10.0
-fStarfieldStarCoordScale=10.0
-fSunScale=1.0
+fStarfieldBackgroundScale=100.0
+fStarfieldStarBrightnessScale=100.0
+fSunScale=0.9
+fStarSystemFarViewDistance=17179869184.0
 ```
 
 **Изменить гамму** (2.4 по умолчанию)
