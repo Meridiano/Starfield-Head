@@ -6,9 +6,9 @@
 
 **Русификация игры**
 
-+ Скачать архив с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield, файлы "Starfield-Russian" на выбор.
 + Проверить, чтобы не было установлено других переводов.
-+ Установить архив как мод в MO2, внести правки StarfieldCustom.ini в вашу версию этого файла.
++ Скачать архивы с русификатором из общей папки [mega:share](https://link.meridiano-web.com/mega:share)/Starfield/Russian.
++ Установить архивы как моды в MO2, подключить плагин "Starfield-Russian-Plugin.esm".
 
 **Иконка обитаемых планет на карте**
 
@@ -99,7 +99,7 @@ PHeal=Player.RestoreAV Health 5000.0
 PKill=Player.Kill
 
 [Hotkeys]
-F1=ShowMenu SleepWaitMenu
+F1=5986.MoveTo Player
 Ctrl-F2=bat "My-Bat-File"
 Alt-F3=PHeal;PKill
 Shift-F4=qqq
@@ -127,8 +127,8 @@ fStarSystemFarViewDistance=17179869184.0
 
 **Заменить FSR2 на DLSS и Nvidia Reflex**
 
-+ Установите обновление игры 1.8.86, зайдите в Settings > Display, настройте параметры DLSS и Nvidia Reflex.
-+ При этом не забудьте поставить мод [Upscaling Fix 2](https://www.nexusmods.com/starfield/mods/3930), который убирает мерцание ткани при любом апскейле.
++ Зайдите в Settings > Display, настройте параметры DLSS и Nvidia Reflex.
++ Не забудьте поставить мод [Upscaling Fix 2](https://www.nexusmods.com/starfield/mods/3930), который убирает мерцание ткани при любом апскейле.
 
 **Заменить внешность NPC**
 
